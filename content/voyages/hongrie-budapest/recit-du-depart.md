@@ -1,0 +1,17 @@
+Category: Voyages
+Title: Récit du départ !
+Date: 2005-06-20 17:20
+Author: viviane
+Tags: Hongrie : Budapest
+Slug: recit-du-depart
+Status: published
+
+Je raconte ici mon voyage à Budapest de 3 jours effectué en mai !
+
+L’avion partait à 15h30 de l’aéroport de Beauvais. Nous avions prévu d’y arriver entre 13h et 13h30 et pour cela de partir à 11h du matin. Nous voilà donc à 11h avec tous nos sacs (valise, sac à dos et sac à main, portable) dans la voiture en direction de Noisiel pour y aller chercher maman et Alice. Maman me fait peur avec les vols en auberge de jeunesse : je décide de ne pas prendre mon portable. Tout se passe bien jusqu’à l’arrivée à l’aéroport. Ce dernier est tout petit. On gare la voiture dans un de ces 2 parkings : 2 champs en plein air. On s’apprête à y laisser la voiture de Seb pour qqs jours et on part avec tous les bagages, à pied, vers le bâtiment principal entre les poules et le cimetière. Nous n’avons aucun mal à trouver la file pour l’enregistrement. L’aéroport paraît en construction, les lampes marchent mal, il n’y a pas plus de deux boutiques, c’est un grand hall en béton plein d’enfants brailleurs.
+
+Là nous rencontrons le problème qui aura le plus de conséquences pour le voyage : au moment d’enregistrer les bagages, maman ne retrouve plus sa carte d’identité. Elle a beau chercher partout et vider son sac, elle n’est nulle part. Seule conclusion possible : elle l’a oubliée à la maison après l’avoir montrée à Sébastien. M. Poix confirme la triste nouvelle sur le portable. Il n’y a plus qu’une seule solution : partir à 3 Alice Sébastien et moi, et attendre maman à Budapest qui prendra un autre avion. Nous retournons voir l’employé, très patient, de l’enregistrement et lui annonçons la nouvelle. Mais au moment ou nous donnons nos trois cartes d’identités, celui-ci fait une remarque judicieuse : « Mais mademoiselle, en s’adressant à ma sœur, vous n’avez que 17 ans, vous êtes mineure, il vous faut une autorisation de sortie du territoire ou votre passeport ». Maman n’a rien pour prouver qu’elle est bien la mère d’Alice, et dans cette situation absurde Alice doit rester à Paris avec maman et prendre un autre avion. Nous ne sommes plus que 2 à partir.
+
+Nous quittons donc Alice et maman et nous apprêtons à embarquer avec de l’argent que nous a passé maman et une seule carte bleue (celle de Seb). Car en effet, celle de maman s’était faite avalée par un appareil la veille et je lui ai donc prêté la mienne pour qu’elle ai de quoi acheter les nouveaux billets d’avion. Le hall d’embarquement est tout petit, il n’y a que trois portes. L’unique café paraît sale, les enfants braillent toujours autant. L’aéroport se termine par une salle d’attente sous des tentes qui tremblent de toutes leurs armatures dès qu’un avion décolle. Assis sur des chaises métalliques dans la chaleur et la poussière, nous tapotons frénétiquement sur nos portable pour établir la liaison entre les parents de Seb et ma mère et Alice, essayant d’obtenir le plus d’information possible concernant le futur vol de ces deux dernières. Mais c’est dans l’incertitude que nous montons dans l’avion, en route vers Budapest.
+
+<img class="aligncenter size-full wp-image-974" title="Wizzair" src="http://www.viviane-voyages.com/wp-content/uploads/2005/06/110.jpg" alt="Wizzair" width="150" height="112" />

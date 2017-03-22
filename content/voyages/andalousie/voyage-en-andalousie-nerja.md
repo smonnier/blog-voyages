@@ -1,0 +1,34 @@
+Category: Voyages
+Title: Voyage en Andalousie : Nerja
+Date: 2007-12-03 22:27
+Author: viviane
+Tags: Andalousie
+Slug: voyage-en-andalousie-nerja
+Status: published
+
+Nous quittons donc notre petit paradis des montagnes pour descendre quelques kilomètres au sud sur la côte andalouse. La mer se dessine sous un ciel gris (le seul du séjour), découpée d’immeubles et de routes, urbanisation à tout va.
+
+<img class="aligncenter size-full wp-image-242" title="Nerja" src="http://www.viviane-voyages.com/wp-content/uploads/2007/12/1.jpg" alt="Nerja" width="150" height="112" />
+
+Nous sortons de l’autoroute et rejoignons le centre de Nerja où l’on finit par trouver un parking après de nombreux errements et demi-tours dans les minuscules rues. Notre hôtel donne sur le <strong>« balcon de l’Europe »</strong>, place principale de la ville, animée et piétonne. Après avoir déposer les bagages dans la chambres, re-garer la voiture plus loin etc., direction la plage !
+
+Le balcon de l’Europe est une grande esplanade qui s’avance naturellement vers la mer. Des deux côtés, des escaliers mènent à de petites plages de sable gris balayées par les vagues. Je suis déjà venue à Nerja, et je me rappelle très bien la mer particulièrement agitée qui y sévit. Je ne suis pas déçue, voilà longtemps que je ne m’étais pas baignée dans une mer aussi forte ! Les courants surpuissants nous poussent hors de l’eau et il faut littéralement se battre contre les vagues. Au bout d’un moment, on est tout simplement éjecté et l’on s’écroule sur le sable avec le sentiment d’être passer à la machine à laver. Certains touristes distraits se retrouvent parfois balayé par une vague alors qu’ils bronzaient tranquillement au soleil sur leur serviette.
+
+<img class="aligncenter size-full wp-image-243" title="Nerja" src="http://www.viviane-voyages.com/wp-content/uploads/2007/12/2.jpg" alt="Nerja" width="150" height="112" />
+
+On reste longtemps sur la plage, retournant plusieurs fois dans l’eau et se lançant même dans la construction d’un château-barrage pour essayer de contrer les vagues.
+
+Le soir, après s’être lavé du sable et du sel qui nous collent à la peau et envahissent déjà notre chambre, on ressort. C’est encore une nouvelle ambiance, bien différente de celles de villes comme Grenade ou Cordoue ou de celle des villages isolées des Alpujaras. On est ici dans une station balnéaire, tout est animé et plein de touristes. Les boutiques sont ouvertes jusqu’à minuit, les rues grouillent de monde. Comme la plupart des touristes sont britanniques – certain possèdent même des résidence secondaire dans les quartier de la ville – l’originalité de la cuisine s’en ressent fortement. Les plats sont stéréotypés et multinationaux, ils ne ressemblent en rien les délicieux tapas que l’on pouvait trouver à Cordoue. Pour arranger le tout, les quelques spécialités sont évidemment à base de poisson et de fruits de mer – ce dont je ne mange pas. Après avoir beaucoup chercher, on choisit un restaurant plutôt médiocre. On termine la soirée par une coupe de glace face à la mer. Sous l’esplanade, on ne voit que l’écume blanche des vagues sur la mer noire.
+
+<img class="alignleft size-full wp-image-244" title="Nerja" src="http://www.viviane-voyages.com/wp-content/uploads/2007/12/3.jpg" alt="Nerja" width="200" height="338" />
+Le lendemain, on trouve grâce au guide du routard un petit café au coin d’une rue où l’on peut se régaler de chocolate con churros qui nous sert de petit déjeuner. On profite ensuite un peu de la plage, aujourd’hui le ciel bleu est revenu et la mer est plus calme. Quand la fin de la matinée approche, l’heure vient pour nous de nous lancer dans l’expédition que nous avons prévu. En effet, notre hôte des Alpujaras nous avait parlé d’une balade dans une rivière à Nerja, et comme on aime beaucoup les rivières, ce n’est pas tombé dans l’oreille d’un sourd ! La veille, on a récupéré à l’office du tourisme un petit guide de cette balade et on s’est même acheté des chaussures spéciales.
+
+On tournicote un peu dans la ville à voiture, avant de trouver cette espèce de chemin partant d’un terrain vague décrit sur notre prospectus. On remonte à voiture le long d’une rivière asséchée et déserte. A côté d’une sorte de carrière désaffectée, on se gare. Il y a d’autres voitures, ce qui est rassurant, par contre toujours pas d’eau ! C’est avec peu d’espoirs que nous commençons la balade et mangeons notre pique-nique. Mais au bout de 20 minutes environ, nous arrivons devant un minuscule barrage, et derrière, la rivière ! Elle n’est pas très haute au départ mais nous prenons grand plaisir à marcher dans l’eau. Au fur et à mesure de la balade, les gorges se resserrent et nous avançons avec l’eau aux genoux, grimpant les rochers et mini chutes d’eau. C’est le genre de balade qu’il me faut, les parois rocheuses et la végétation sont une barrière naturelle au soleil et je n’ai jamais trop chaud, rafraîchie par l’eau de la rivière. A certains endroits, l’eau est même assez profonde pour se baigner.
+
+Nous marchons bien deux heures avant de faire demi tour, et c’est après quatre heures de balade que nous retrouvons, épuisés, notre voiture. Nous profitons encore un peu de la plage le soir malgré nos jambes éreintées. Pour notre dernier dîner en Espagne, nous choisissons ensuite un restaurant italien où ils font tout de même un délicieux gaspacho. Dernière nuit à Nerja, le matin, on déguste une dernière fois le chocolate con churros puis on prend la direction de malaga.
+
+<img class="aligncenter size-full wp-image-245" title="Nerja" src="http://www.viviane-voyages.com/wp-content/uploads/2007/12/4.jpg" alt="Nerja" width="150" height="112" />
+
+Sur une plage aux abords de la ville, on déjeune avant de se baigner dans une mer turquoise et calme, dernier bain. On a encore le temps de visiter un peu le centre, et l’Alcazaba. On se régale ensuite dans un salon de thé où ils servent aussi ces boissons à base de lait aromatisé aux noix ou turron… Il est maintenant l’heure de rejoindre l’aéroport où l’on rend sans difficulté la voiture de location. Alors que l’on fait la queue à l’enregistrement, on a la bonne surprise de rencontrer Maria, notre ancienne colocataire qui, en effet, est originaire de Malaga. C’est surtout elle qui doit être surprise de nous trouver dans sa « home town ». Elle prend le même avion que nous et nous avons tout le trajet pout parler de l’Espagne bien sûr, mais aussi du couple slovaque qui nous a remplacé et leur a fait vivre à elle et Peter deux mois difficiles. Heureusement, ils s’en vont et ce sont maintenant des italiens qui vont prendre notre chambre.
+
+Nous rentrons chez nous tard le samedi dans la nuit. Le dimanche, je me sentirai un peu perdue, après deux semaines d’été, retrouver l’automne dublinois et la vie quotidienne n’est pas si facile… Dans nos bagages, le soleil, un gros fromage d’Andalousie, de la Orchata et 3 plaques de turron pour faire profiter nos collègues…

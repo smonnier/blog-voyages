@@ -1,0 +1,17 @@
+Category: Films
+Title: Gerardmer 2012, jour 2
+Date: 2012-01-29 08:47
+Author: viviane
+Tags: Festival de Gerardmer, 
+Slug: gerardmer-2012-jour-2
+Status: published
+
+Deuxième jour de festival, nous sommes à l'heure devant l'Espace Lac pour aller voir Hell, film allemand post-apocalyptique. La séance est pleine, nous avons bien fait d'arriver à l'avance, l'heure de pointe du festival est arrivée. Le film est agréable à regarder. Le scénario n'est pas très original mais, au moins, il n'est pas complètement aberrant.Il y a du rythme, et de la poésie dans ce monde brûlé par le soleil. Et puis nous découvrons une première famille de tordus : elle arrive 3ème au classement des "fucked up families" de la journée.
+
+Après la pause déjeuner, notre second film est The Caller, une série B sur les problèmes d'espace temps. Le film est moins mauvais que ce que je craignais, il y a des bonnes idées même si le scénario souffre de problèmes de crédibilité (je veux dire que, même quand on part du principe que le contact avec le passé est possible, le scénario n'est toujours pas très crédible). On se rend ensuite à la MCL pour voir The Woman. Le film est présenté hors compétition car il a déjà été vu dans plusieurs festival, mais pas par nous ! Il traine une bonne réputation et en effet, c'est une jolie claque. Une femme sauvage est enchainée dans la cave d'une famille respectable. La perversité de la famille en question est révélée petit à petit, en particulier le personnage du père, classée 2ème dans mon classement du jour des familles à problèmes. La fin est sanglante comme on l'attendait, ça donne envie de voir les autres films du réalisateurs.
+
+La journée continue à l'Espace Lac. Arrivés à l'avance (avant la sortie de la séance précédente), nous attendons patiemment dans la queue assis sur un petit escalier, sûrs de rentrer. La séance se remplit vite, des pass festivals sont restés sur le carreau. Le film présenté, en compétition, est espagnol : Eva. On se trouve plus du côté de la SF que du fantastique. Tout est très bien maitrisé : l'image, le décor neigeux, les acteurs, le scénario. Une histoire à la fois poétique et étrange, moins gentille qu'il n'y parait. Il a visiblement plu au public : peut-être le grand prix ?
+
+Enfin, on termine la journée avec Mother's Day au cinéma du casino. C'est le second film que nous voyons de la section Extrême et en effet, il mérite le titre. On est dans un genre torture gore qui n'est pas à conseiller à tout le monde. Mais par ailleurs, le film ne fait pas dans la surenchère : l'horreur arrive petit à petit, les personnages et les situations prennent le temps de se développer, on est envouté par l'histoire et la violence qui se dégage de chacun : victime ou bourreau. Le film est un remake et il faudrait donc que je vois l'original, mais même dans cette version récente, on retrouve un peu l'ambiance et l'audace d'un film comme La Dernière maison sur la gauche. Et puis, je peux décerner le premier pris de la famille à celle du film : un personnage de mère très bien fait à la fois perverse et douce, prête à vous massacrer tout en douceur et avec le sourire.
+
+Après une telle journée, difficile de dormir, et on a pourtant besoin de sommeil pour ternir encore deux jours !

@@ -1,0 +1,31 @@
+Category: Voyages
+Title: Journée électorale Française en Irlande
+Date: 2007-04-23 00:05
+Author: viviane
+Tags: Un an en Irlande !
+Slug: journee-electorale-francaise-en-irlande
+Status: published
+
+Ici aussi, l’élan électoral s’est senti.
+
+Déjà, quand on est allé faire nos procurations début avril dans le petit bureau du consulat, une table spéciale nous était destinée. Vu la taille de la « cabane » qui accueille les différentes demandes, nous avons d’abord du attendre dehors. Puis nous sommes entrés et là (surprise) nous ne devons pas faire la queue au guichet comme d’habitude. Une employée spéciale, assise à une petite table nous distribue le papier à remplir et nous donne quelques explications. D’autres personnes sont déjà en train de faire leurs procurations : ici aussi, on vote !
+
+Et puis, il suffit de parler un peu aux français autours de nous pour voir que l’intérêt est fort. C’est une question qui revient souvent « et toi, comment tu fais pour voter ? ». Notre colocataire Maria est assez impressionnée. Elle a passé une soirée avec ses collègues français et la discussion s’est beaucoup posé sur les questions politiques, jusqu’aux disputes (inévitables ?).
+
+Les irlandais, contrairement à ce qu’on pourrait croire, ne sont pas très politisés. J’ai apporté à mon bureau une page imprimée avec les différentes photos des candidats. Un seul de mes collègues a reconnu Jean-Marie Le Pen, les autres n’en connaissaient aucun. A la tête, ils auraient élu Besancenot et de Villier, donc on peut se féliciter qu’il n’y ai pas que la tête qui compte ! Je leur parle un peu des différents candidats, ils trouvent ça amusant. Ce qui les étonne le plus : on a un candidat des « pêcheurs et des chasseurs ». C’est dôle quand même, mais bon après tout « Why not ? ».
+
+Et eux, est-ce qu’ils votent ? Non pour la plupart. A part Fergal (celui qui avait reconnu Le Pen), aucun d’eux ne se déplace. Et même Fergal m’avoue qu’il n’y a pas tellement d’utilité à aller voter, il y a tellement peu de différences entre les partis. C’est vrai qu’ici, pas d’extrême ou si peu, la plupart des partis sont issus des mouvements indépendantistes et soutiennent, à peu de choses près, les mêmes idées. Et puis, de façon assez étonnante, les irlandais ne sont pas des polémiqueurs. Ils ont leur lute favorite contre leur ex-ennemi numéro 1 : les anglais. Mais au-delà ce ça, ils se laissent vivre, ont un rapport très fataliste aux différentes réalités « C’est quand même con qu’on n’est pas de plan de Bus à Dublin, ce serait pratique (Tu m’étonnes !!) ». Et pourtant, en Irlande, il y en a des polémiques ! Qu’en est-il de l’avortement ? Des problèmes liés à l’alcool ? Du trafique de drogue et des luttes mafieuses dans les rues de Dublin ? Ces problèmes, mes collègues ne les abordent que peu ou prou avec moi (ou entre eux). J’essaye parfois de poser des questions pour recueillir leurs opinions, mais je veux éviter d’avoir l’air de les attaquer en leur imposant mon point de vue d’étrangère.
+
+L’avortement, je ne l’ai abordé qu’avec notre prof d’anglais, qui était déjà beaucoup plus politisée que tous mes collègues réunis. Sa réponse « C’est vrai que c’est embêtant… Mais bon, avec l’Irlande du nord britannique, les avortements ont quand même lieu, sans compter les bateaux au large des côtes qui accueillent les jeunes filles dans les eaux internationales ». Alors bon, on laisse faire, on évite le problème plutôt que de réveiller les foudres de l’église (encore bien présente) et de se lancer dans un débat qui risquerait de diviser.
+
+A côté de ça, la passion des français pour leur élection parait bien exotique. Hier soir, nous étions à l’anniversaire d’un de mes collègues, et donc les seuls français de la soirée. Plusieurs irlandais nous ont un peu lancé sur le sujet. Ils sont intéressés, posent des questions sur les candidats. Un de mes collègues va passer une semaine à Paris au mois de juin, dans le quartier latin. Je lui dis que si Sarko est élu, il sera aux premières loges pour les manifs ! Il pourra prendre les défilés en photo, au moins il aura vu la France. Il faut dire qu’ici, non seulement on ne manifeste pas beaucoup, mais en plus il n’y a que 4 millions d’habitants en tout, alors ça ne fait jamais tant de monde que ça. Encore une fois, la seule vraie polémique est toujours liée à la lutte contre les anglais. L’année dernière, une manif a fait beaucoup de bruit : en plein Dublin, un défilé pour les victimes policière de l’IRA lors de la lute armée. Comme on pouvait s’en douter, ça a plutôt mal tourné…
+
+Je parle à mon collègue de la manif du premier mai qui a suivi l’arrivée de Le Pen au second tour. Sa réaction :
+-	Quoi ?? Vous avez un parti fasciste !!
+-	Oh ba oui, on a aussi un parti communiste
+-	Des communistes !! Ils doivent être bien à gauche…
+-	C’est pas les plus à gauche, on a trois partis Trotskistes
+
+Ses parents qui travaillent aussi avec moi (petite entreprise familiale, là où je travaille) sont plus au courants de ce qui se passent en France. Ils me demandent ce que je pense de l’élection, pour qui je vote. Ils me posent des questions sur l’immigration, sur les émeutes, mon avis les intéresse. On compare avec la situation irlandaise, les problèmes sociaux de façon générale…
+
+Couché à 4h du matin hier soir, on a passé la journée électorale dans notre chambre. On a eu la confirmation dans la journée que nos votes par procuration avaient marché, la tension monte avec la participation. On a les premières estimations vers 19h après avoir entendu tout et n’importe quoi. Les tendances se confirment et le duo de tête apparaît sur les écrans. Seb est un peu déçu, moi je suis surtout satisfaite du « recentrage » des voix, de l’exceptionnelle participation, de la baisse des extrêmes. Et puis, au moins pour le deuxième tour, je ne serai plus tiraillée par l’indécision qui m’a suivi tout au long de ces dernières semaines ! Mais même si pour moi tout est décidé, rien n’est joué au niveau du résultat final, la campagne va être serrée : rendez-vous dans 2 semaines où je vivrai les résultats sans doute de ma voiture, directement depuis la France !

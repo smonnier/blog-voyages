@@ -1,0 +1,17 @@
+Category: Livres
+Title: Challenge adaptations : L'Adversaire
+Date: 2010-02-14 13:12
+Author: viviane
+Tags: Challenge Adapations, 
+Slug: challenge-adaptations-ladversaire
+Status: published
+
+Toujours dans le cadre du challenge proposé par <a href="http://happyfew.hautetfort.com/archive/2010/01/16/lunettes-noires-sur-pages-blanches-les-participants.html" target="_blank">Happy Few</a>, voilà une nouvelle critique d'un livre et de son adaptation. Je vais parler ici de <em>L'Adversaire</em> qui est à la fois un livre d'Emmanuel Carrère (2000) et un film de Nicole Garcia (2002).  J'ai d'abord vu le film avant de lire le livre et, pour une fois, je dois dire qu'il est difficile de choisir lequel est meilleur car les deux sont assez différents et ont leurs spécificités.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/02/affiche-film.jpg"><img class="alignleft size-thumbnail wp-image-1156" title="L'Adversaire" src="http://www.viviane-voyages.com/wp-content/uploads/2010/02/affiche-film-150x150.jpg" alt="" width="150" height="150" /></a> Je vais d'abord parler du film car c'est avec lui que j'ai découvert cette glaçante histoire. Car en effet, <em>L'Adversaire </em>est tirée de l'histoire vraie de Jean-Claude Roman qui fit croire pendant des années à sa famille qu'il était médecin avant de tuer femmes et enfants de peur que son secret ne soit découvert.
+
+Dans le film, Jean-Claude Roman est magistralement interprété par Daniel Auteuil qui fait ressentir tout le mystère et toute la froideur du personnage. L'histoire est racontée sous forme de témoignages et flash-back nous rapprochant petit à petit de l'issue fatale mais jamais de l'explication, nous restons dans le doute et l'incompréhension. Je me souviens surtout des longs plans sur Jean-Claude Roman passant ses journées sur des aires de repos alors que sa femme le croit au travail.
+
+Ces journées à ne rien faire, ou plutôt, ces journées où personne ne sut jamais ce qu'il faisait ont aussi beaucoup intrigué Emmanuel Carrère. L'élément principal, occulté du film, qui m'a surpris en lisant le livre est la présence voulue de l'auteur dans son récit. <em>L'Adversaire</em> d'Emmanuel Carrère ressemble plus à un témoignage qu'à un roman. On y découvre la rencontre entre l'auteur et son personnage, sa quête de compréhension, son enquête personnelle. On apprend beaucoup sur le passé de Jean-Claude Roman : comment il a pu "faire croire" qu'il était médecin, comment tout a dérapé le jour où il n'est pas allé à un examen. Mais apprendre n'est pas comprendre et on se perd, comme l'auteur, chez cet être insondable tiraillé entre l'horreur et la banalité.
+
+En conclusion, c'est à la fois un très bon livre et un très bon film et on pourra profiter des deux sans redondances ni déceptions. Emmanuel Carrère a su nous entrainer dans son histoire, nous faire "ressentir" Jean-Claude Roman, nous placer devant l'incompréhension. Quant à Nicole Garcia, en s'inspirant du livre, elle a créé une œuvre à part entière. Traduisant par l'image les sentiments qui découlaient de la lecture, elle a retrouvé l'esprit de l'enquête par la forme du film sans pour autant ne réaliser qu'une pâle copie du livre. Deux œuvres différentes et complémentaires qui questionnent sur l'identité, le basculement, l'horreur et la vie.

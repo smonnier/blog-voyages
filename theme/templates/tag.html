@@ -1,0 +1,8 @@
+{% extends "index.html" %}
+{% block bg_image %}{{ SITEURL }}/{% if tag.background_image %}{{ BACKGROUND_URL }}{{ tag.background_image }}{% else %}{{ BACKGROUND_DEFAULT }}{% endif %}{% endblock %}
+{% block sitetitle %}
+    <h1>{{ tag }}</h1>
+    {% if tag.is_voyage %}
+    <h2>{{ tag.year_str }}</h2>
+    {% endif %}
+{% endblock sitetitle %}

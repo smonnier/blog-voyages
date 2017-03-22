@@ -1,0 +1,21 @@
+Category: Voyages
+Title: Première soirée à Budapest
+Date: 2005-06-20 23:55
+Author: viviane
+Tags: Hongrie : Budapest
+Slug: premiere-soiree-a-budapest
+Status: published
+
+Je raconte ici mon voyage à Budapest de 3 jours effectué en mai !
+
+L’avion « Wizzair », est tout rose et minuscule. On y accède en marchant à l’extérieur et en grimpant sur un petit escalier. Le placement est libre, et de toutes façons l’avion n’est pas plein. Nous prenons 2 places et je m’installe près du hublot. L’ambiance du personnel a l’air très joyeuse : les hôtesses passent leur temps à éclater de rire aux blagues du steward, et ont beaucoup de mal à se retenir lorsqu’elles doivent s’adresser aux voyageurs. Le vol se passe très bien, je passe une bonne partie du temps à dormir, n’ouvrant les yeux que pour profiter du magnifique paysage des nuages, des plaines, et surtout des montagnes enneigées que nous survolons.
+
+Nous arrivons très rapidement à Budapest. En arrivant dans la navette avion-aéroport nous allumons nos portable pour prendre des nouvelles d’Alice et maman. Mais là, Sébastien a un flash terrible : les clefs de notre grosse valise sont sur le trousseau qu’il a passé à maman pour qu’elle prenne sa voiture. Nous réussissons très vite à appeler le portable d’Alice : elles ont trouvé un avion et arrivent ce soir à 21h, mais malheureusement elles n’ont pas pris nos clefs. Nous récupérons notre grosse valise mais pressentons déjà qu’il va être difficile de l’ouvrir.
+
+L’aéroport de Budapest est plus grand et plus moderne que celui de Beauvais. Nous arrivons à tirer de l’argent, à confirmer tant bien que mal notre vol de retour (auprès d’une employée qui ne comprend rien à l’anglais de Sébastien mais qui est bien plus réceptive au mien) et nous approchons du guichet des « minibus airport ». Là, nous donnons le nom de notre hôtel et achetons deux tickets puis on nous envoie attendre sur des sièges un peu plus loin. Sébastien en profite pour sortit son « hongrois utile en voyage » et commence à me répéter les mots qu’il a tenter d’apprendre pendant le vol. Je ne retiens rien, mais lui non plus !
+
+Le chauffeur vient nous chercher assez rapidement et nous montons dans le minibus avec d’autres touristes. A travers les vitres je regarde les banlieues de Budapest puis ses rues, à la fois vétustes et luxueuses. Au bout d’1/2 heure environ, le bus nous dépose dans une rue avec comme instruction « just here on left ». Il nous faut un certain temps pour comprendre que le « yellow sub’hotel » se trouve bien au bout de cet espèce de couloir sombre à l’intérieur d’un vieil immeuble. Après nous être perdus dans une étrange cour sans issue, nous trouvons enfin l’interphone qui se trouve à 20 m de la porte d’entrée. Il ne faut donc pas hésiter à courir pour ouvrir cette dernière. Là, nous nous trouvons dans une grande cage d’escalier dont le sol est recouvert de vieilles mosaïques avec une rampe en fer forgé et sans ascenseur. Il nous faut monter trois étages…
+
+Enfin en haut, nous sonnons à la grande porte jaune du « yellow sub » et entrons dans l’auberge. Celle-ci pullule de jeunes touristes internationaux, de sacs, de bazar en tout genre. Elle n’est pas très grande, nous sommes dans un espèce de couloir et il semble y avoir d’autres pièces derrières. Une grosse dame d’age moyen nous accueille avec un anglais rapide marqué par son accent hongrois mêlé d’américanisme (des « guys » tous les 2 mots) mais qui reste assez compréhensible. Elle s’assoit à son bureau, une sorte de niche coincée dans le couloir, et commence à nous expliquer où nous allons loger. Nous ne seront pas dans le même bâtiment que maman et Alice, il nous faut sortir de cet immeuble prendre une rue puis une encore une autre, ça a l’air compliqué, heureusement, elle marque tout sur un petit plan. Enfin, elle nous prend notre passeport en gage contre les clefs et nous souhaite un bon séjour...
+
+<img class="aligncenter size-full wp-image-970" title="Budapest" src="http://www.viviane-voyages.com/wp-content/uploads/2005/06/19.jpg" alt="Budapest" width="100" height="150" />

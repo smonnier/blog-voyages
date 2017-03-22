@@ -1,0 +1,34 @@
+Category: Voyages
+Title: La montagne et les dunes
+Date: 2010-08-10 17:17
+Author: viviane
+Tags: Mongolie
+Slug: la-montagne-et-les-dunes
+Status: published
+
+<h3 lang="x-western">Jeudi 29 juillet</h3>
+<p lang="x-western">Ce matin, c'est Tsenrentogtoch qui vient nous réveiller en entrant inopinément dans notre yourte. Je me lève pour l'empêcher de voler nos affaires posées sur les lits. Il repart comme il est venu. La matinée est ensoleillée et venteuse. Je m'installe pour lire devant la yourte puis nous prenons le petit déjeuner à l'intérieur à cause du vent. Nous quittons ensuite le camp pour aller visiter le monastère. Il se trouve dans la montagne Khogno Khan à moins de 5 minutes en voiture. Nous aurions pu y aller à cheval mais nous ne sommes pas assez expérimentés.</p>
+
+<div lang="x-western">
+
+En chemin, nous passons près d'un petit lac entouré de marécages. Aux alentours, paissent les chevaux, chameaux, chèvres, vaches, moutons et yaks. Sur le lac, on voit des canards et des cygnes. D'autres fois, nous avons aussi vu des grues ainsi que de très larges rapaces assez effrayants. Ils tournoient haut dans le ciel et fondent parfois vers la plaine sur ce qui doit être des mulots. On les croise aussi le long de la route nous toisant de leur haute stature. Dans l'herbe, sautent des tas de petites grenouilles, je les trouve très amusantes. Je les préfère largement aux araignées du dernier campement.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1010713.jpg"></a><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1010713-retouche.jpg"><img class="aligncenter size-medium wp-image-1482" title="Petit lac à Khogno Khan" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1010713-retouche-300x225.jpg" alt="" width="300" height="225" /></a>
+
+Le monastère est juste à l'entrée de la montagne. Il est assez récent et a été reconstruit à la place d'un plus ancien détruit par les communistes (il avait déjà été détruit et reconstruit plusieurs fois avant ça). La montagne porte son nom en l'honneur des lamas (les moines, pas les animaux) qui ont été tués ici par les communistes. Plus loin dans la montagne se trouvent les ruines d'un autre monastère. Mais il faudrait marcher deux heures en plein soleil pour l'atteindre et je ne m'en sens pas la force. La montagne est en fait un gros massif rocailleux plein de broussailles. J'ai du mal à croire qu'il y vit des loups et des tas d'autres animaux. D'ailleurs, il y en a aussi dans la steppe : où sont-ils donc le jour ?
+
+En revenant à notre campement, nous nous arrêtons au camp de yourtes pour touristes (sorte de grand camping de yourtes) pour prendre une douche. Il y a aussi des vraies toilettes. La douche fait vraiment du bien, c'est la première que nous prenons depuis Oulan Bator, sinon, outre la bassine d'eau, on se se lave aux lingettes. Nous retournons au camp prendre notre repas de midi et là, surprise, nous rencontrons à nouveau le couple de touristes d'hier. Leur guide est une amie de la famille chez qui nous sommes et a voulu s'arrêter. Ils ne restent pas ici et repartent bientôt en direction de Karakorum. Notre agence locale, DMD, est spécialisée dans touristes français, c'est pour ça qu'on en croise tout le temps.
+
+Après le déjeuner, nous partons faire une balade à cheval. Sébastien et moi sommes accompagnés d'Erica et du chef de famille qui nous sert de guide. L'idée est d'aller jusqu'au petit lac et de revenir, une heure de balade environ. Je me sens plus à l'aise que la dernière fois. Erica tient la bride de mon cheval depuis le sien pour le forcer à suivre mais au retour, elle me laisse le guider seule. Nous trottons un peu, Seb n'aime pas car ça secoue trop. C'est assez extraordinaire d'être sur un cheval en Mongolie et de regarder les yaks dans la plaine. Avant de revenir au camp, nous repassons par les dunes pour marcher un peu dans le sable avec les chevaux.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1010715.jpg"><img class="aligncenter size-medium wp-image-1477" title="Les yaks" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1010715-300x225.jpg" alt="" width="300" height="225" /></a>
+
+Après ça, nous sommes fatigués et nous reposons dans la yourte tandis qu'Erica est partie faire des courses à cheval avec la maitresse de maison. Quand elle revient, elle me propose de venir préparer le repas du soir avec elle : elle va nous cuisiner un repas mongol. Je l'aide à préparer la pâte et à couper les légumes. Les familles nomades se passent en général de légumes et se contentent de féculents et de viande. Nous sommes installés dans la yourte de la famille. La maitresse de maison est très jeune (25 ans peut-être). C'est la mère de Tserentogtoch et elle est enceinte d'un second enfant. Monhbat n'est pas son fils, il vient aider la famille pendant l'été avec les chameaux. Il y a aussi une jeune fille qui doit être sa nièce et un bébé, qui est le fils de la voisine. Ce dernier marche déjà mais est plus jeune que Tserentogtoch. Comme les adultes sont occupés et ne peuvent pas toujours le surveiller, ils l'attachent au pilier central de la yourte. De là, il tire tant qu'il peut pour attraper tout ce qui est à la portée de ses petites mains. Sur une petite télé en noir et blanc, passe un feuilleton mongol sous-titré en anglais. Les sous-titres doivent être là pour aider les mongols à acquérir cette langue.
+
+Monhbat arrive et est très content de nous voir. Il insiste pour que nous venions avec lui voir le chameau et nous dit que nous pouvons le monter gratuitement. Nous acceptons et montons donc pour la première fois sur le chameau. Ça ressemble assez au dromadaire que j'ai monté il y a maintenant de nombreuses années avec ma mère et ma sœur au Maroc. Pour Sébastien, c'est la première fois. Le chameau se couche sur le sol pour que nous puissions grimper dessus et se relève ensuite. Nous ne faisons que quelques pas (et quelques photos) autour des yourtes. Demain, nous partirons pour une balade plus longue dans les dunes.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080718.jpg"><img class="aligncenter size-medium wp-image-1479" title="Sur le chameau" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080718-300x225.jpg" alt="" width="300" height="225" /></a>
+
+Nous retournons dans notre yourte pour diner avec Erica. Le plat mongol est très bon : la pâte faite de farine et d'eau a été étalée puis découpée en lamelles pour faire des sortes de pâtes cuites à l'eau avec les légumes et la viande. Ce soir, il fait beaucoup plus frais et nous restons donc dans notre yourte que nous avons soigneusement fermée avec l'aide d'Erica. Le principal problème, ce sont les mouches. Elles ne nous embêtent pas la nuit quand on dort, mais tant que la lumière est allumée, elles nous tournent autour et nous sautent dessus : pas pratique pour lire !!
+
+</div>

@@ -1,0 +1,23 @@
+Category: Voyages
+Title: Vers les Rockies
+Date: 2016-07-29 03:37
+Author: viviane
+Tags: British Columbia,
+Slug: vers-les-rockies
+Status: published
+
+Le but en quittant Squamish est de rejoindre les montagnes rocheuse dont on nous a loué la beauté. Pour cela, il faut dépasser la chaîne de montagnes qui surplombe Vancouver dans laquelle nous sommes, puis traverser une plaine. Nous comptons 2 jours de trajet.
+
+Nous nous sommes levés un peu tard, avons pris notre temps et fait des courses. Il est presque 13h quand nous quittons réellement Squamish. Nous nous arrêtons pour déjeuner peu de temps après à Whisler. C'est la ville qui a accueilli les jeux olympiques d'hiver : un vrai petit "touristic resort" de montagne avec ses petits chalets mignons et ses multiples activités. On peut lui reprocher d'être un peu trop artificielle, envahie par les résidences secondaires au point de perdre sa spécificité. On voudrait pique-niquer au bord du bien nommé "Green Lake" mais sa rive est soit inaccessible, soit privatisée par les chalets et on ne trouve qu'un minuscule accès avec 3 cailloux pour s'asseoir... C'est là que nous nous installons, pauvres campeurs, pour déjeuner.
+
+Après Whisler, la route continue encore de longs kilomètres à travers les montagnes. Ce qui est impressionnant avec l'Amérique du nord, c'est ces incroyables étendues de nature sauvage. Nous roulons au fond d'une vallée, le long d'une rivière, et pas un seul village, pas une installation humaine, seulement la forêt, la forêt et encore la forêt... Et pourtant, nous sommes encore assez près de Vancouver, rien à voir avec les états du nord encore plus déserts.
+
+Lorsque nous dépassons la petite ville de Lillooet, le paysage change. D'un seul coup, on se croirait au sud de l'Europe ou même au Magreb. Le relief est moins marqué et les pentes sont couvertes d'une végétation sèche et jaune. Bientôt nous roulons au fond d'une large vallée dont les bords sont dessinés par des parois rocheuses aux tons ocres. Au centre, ne coule plus un torrent de montagne mais une large rivière brune. C'est le long de cette rivière, alors que nous approchons de Kamloop, que nous nous arrêtons pour la nuit.
+
+Le camping est assez simple, il y a surtout des camping-cars. Heureusement, un petit espace vert est réservé pour les tentes. Le vent souffle, faisant frémir les bruissons de sauges bleutés qui parsèment la vallée. Le long de la falaise, sur la voie de chemin de fer, passent en grinçant de longs trains de marchandises aux wagons couleur rouille. On se croirait dans un western.
+
+Par ailleurs, tout ici, les noms, les lieux, est emprunt de culture amérindienne. Dans le camping, des panneaux d'information racontent des légendes locales faisant intervenir des animaux et des saisons. J'ai l'impression, qu'après des années de véritable maltraitance, le Canada prend conscience de ses erreurs et de sa responsabilité. Bien sûr, tout n'est pas rose, en témoignent les SDF de Vancouver qui sont nombreux à venir de ces communautés. Mais, au moins en apparence, le pays affiche son respect pour ce qu'on appelle ici les "First Nations". Notre tente est plantée juste à côté d'une tombe indienne. D'après tous les films que j'ai vus, c'est une très mauvaise idée !  Mais cela fait plusieurs jours à présent et il ne semble pas que nous soyons poursuivis par un esprit quelconque.
+
+Au niveau du camping, une petite déviation de la rivière forme une piscine naturelle entourée de hautes herbes. On y accède par une petite plage. L'après-midi est déjà bien avancée et bien que nous croisions de nombreux enfants en maillots de bain jouant dans le camping, nous sommes les seuls à nous baigner. Je nage avec délice dans l'eau fraîche et claire. Plus loin, des pêcheurs en grandes bottes lancent leurs lignes dans le courant de la rivière. Plus tard, nous remontons à la tente. Seb fait un feu de petit bois pour faire griller du pain et nous dînons en regardant le soleil se coucher.
+
+Le lendemain, nous reprenons la route. La vallée désertique nous apparaît dans toute sa beauté, nuances de jaunes et d'ocres parfois contrastées par le vert brillant d'un champ irrigué. Nous dépassons le long lac de Kamloop puis tournons vers le nord, remontant la rivière Thomson vers Cache Creek. Petit à petit, le désert se transforme en forêt d'abord de feuillus puis, de plus en plus, de conifères. Après Cache Creek, où nous déjeunons au bord d'un lac, nous sommes à nouveau dans les montagnes. Nous roulons le long d'une rivière argentée, bercés par la voix de Sarah Vaughan, quand d'un seul coup, le Mont Robson nous apparaît dans toute sa majestueuse blancheur perdue dans les nuages. Bientôt, nous passons la frontière de l'Alberta et pénétrons dans le Jasper National Park.

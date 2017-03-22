@@ -1,0 +1,25 @@
+Category: Films
+Title: Festival de Gerardmer 2008
+Date: 2008-02-06 22:48
+Author: viviane
+Tags: Festival de Gerardmer, 
+Slug: festival-de-gerardmer-2008
+Status: published
+
+En ce mercredi 23 janvier, le festival s’ouvre sur un temps magnifique. La neige n’est malheureusement pas la là mais le temps est froid et ensoleillé.
+
+Les premiers films ne seront projetés que ce soir et l’on passe donc notre après midi à se balader tranquillement sur le col de Schlucht, qui lui est enneigé, dans les bois lumineux et calmes.
+
+<img class="aligncenter size-medium wp-image-204" title="Gerardmer 2008" src="http://www.viviane-voyages.com/wp-content/uploads/0208/02/1-300x225.jpg" alt="Gerardmer 2008" width="300" height="225" />
+
+Comme nous sommes de retour assez tôt, on décide de tenter pour la première fois d’aller à la cérémonie d’ouverture. Celle-ci se tient à 19h à l’espace lac. A 17h30 nous sommes déjà dans la queue. Après une heure et demi, notre attente est récompensée et nous rentrons mais nous avons bien fait de venir à l’avance car peu de gens rentrent après nous. Il n’est même pas noté sur le programme que la cérémonie est ouverte au public. En effet, entre les journalistes et les invités, il ne reste que très peu de places sur les plus de 700 que compte l’espace lac pour accueillir les festivaliers.
+
+<p>Jury festival Gerardmer 2008</p><img class="size-medium wp-image-205" title="Jury festival Gerardmer 2008" src="http://www.viviane-voyages.com/wp-content/uploads/0208/02/2-300x225.jpg" alt="Jury festival Gerardmer 2008" width="300" height="225" />
+
+Cette année le jury change un peu de style. Ces dernières années, les membres tendaient à être des people en recherche de notoriété et n’avaient souvent qu’un bien faible lien avec le fantastique. Cette fois-ci, ce sont presque tous des réalisateurs qui ont mis la main à la pâte, des spécialistes du genre pas toujours connu du grand public (ni même de moi) : 7 réalisateurs dont le président du jury, <strong>Stuart Gordon</strong>, et <strong>Jess Franco</strong> (espagnol), <strong>Takashi Shimizu</strong> (japonais), <strong>Sean S Cunningham</strong> (américain),<strong> Neil Marshall </strong>(britanique), <strong>Ruggero Deodato</strong> (italien), <strong>Jake West </strong>(britanique), <strong>Nicolas Winding Refn</strong> (danois) et <strong>Juraj Hertz</strong> (tchèque) _ assez international comme vous pouvez le remarquer. En plus de cette troupe, on trouve l’actrice <strong>Kristanna </strong>Loken qui tombe un peu comme un cheveux sur la soupe…
+
+<img class="alignleft size-thumbnail wp-image-206" title="Cloverfield" src="http://www.viviane-voyages.com/wp-content/uploads/0208/02/3-150x133.jpg" alt="Cloverfield" width="150" height="133" /> Après les discours divers (on peut saluer celui du maire de Gérardmer, vraiment pas mal) et la présentation du jury, a enfin lieu la projection du film <strong>Cloverfield</strong>.
+
+Je ne savais pas trop à quoi m’attendre mais au final, ça a été plutôt une bonne surprise. En tout cas, je me suis prise au jeu, j’ai eu peur, j’ai été entraînée par l’ambiance générale. Pour ceux qui ont suivi le buzz, Cloverfield est l’histoire d’un gros monstre qui envahi New York mais où tout est entièrement suivi à travers la caméra numérique d’un des protagonistes. La caméra subjective a d’ailleurs été à l’honneur cette année avec pas moins de 3 films sur les 10 en compétition. Je ne sais pas si on doit trouver le procédé facile ou intelligent, mais ça marche assez. Evidemment, Cloverfield reste une grosse production américaine et manque tout de même d’originalité.
+
+<img class="alignleft size-thumbnail wp-image-207" title="Stuck" src="http://www.viviane-voyages.com/wp-content/uploads/0208/02/4-150x133.jpg" alt="Stuck" width="150" height="133" />La soirée continue avec un film hors compétition, réalisé par le président du jury, <strong>Stuart Gordon</strong>. <strong>Stuck</strong> est un des films que j’ai préféré cette année. Il raconte l’histoire d’une jeune femme qui renverse un homme dans la rue, celui-ci entrant littéralement dans son pare brise. Prise de peur et ne sachant comment réagir, elle finit par l’enfermer mourrant dans son garage, toujours dans le pare brise. Ce film est un vrai bijou d’humour noir / gore et de cynisme. Ce qui le rend si intéressant, et qui manque par exemple cruellement à Cloverfield, c’est l’originalité et le réalisme des personnages. Le film est encré dans une réalité sociale qui fournit un véritable background à l’histoire générale. Les acteurs jouent juste et on se rappelle de chaque personnage, même secondaire. Le décalage absurde entre cet homme coincé dans un garage et la vie de l’aide soignante est soigneusement dessiné. En résumé, je me rappellerai de ce film, il ne rentera pas dans l’immense masse des films qui se ressemblent et que je finis par confondre et oublier.

@@ -1,0 +1,19 @@
+Category: Livres
+Title: Cadres Noirs
+Date: 2010-02-02 22:34
+Author: viviane
+Tags: , Partenariat Livraddict
+Slug: cadres-noirs
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/02/cadres-noirs1.jpg"><img class="alignleft size-medium wp-image-1137" title="cadres noirs" src="http://www.viviane-voyages.com/wp-content/uploads/2010/02/cadres-noirs1-193x300.jpg" alt="" width="193" height="300" /></a>Je participe pour la première fois à un partenariat grâce au site <a href="http://www.livraddict.com" target="_blank">Livraddict</a> : le principe est simple, je m'engage auprès d'une maison d'édition à lire un livre et à poster une critique et en échange je reçois le livre gratuitement ! Pour ce premier partenariat, j'ai reçu <em>Cadres Noirs</em> et Pierre Lemaitre, aux éditions Calmann-lévy.
+
+C'est une sorte de thriller qui raconte l'histoire d'un cadre au chômage à qui l'on propose un test de recrutement particulier. Il va devoir simuler une prise d'otages pour évaluer les cadres d'une entreprise, à la clé : un poste de DRH. Désespéré de retrouver un emploi un jour, il décide de se prêter à ce jeu macabre et s'y donne pleinement quitte à mettre en jeu sa famille. Mais les choses ne tournent pas tout à fait comme prévu...
+
+Je n'ai pas accroché tout de suite au livre. Les premiers chapitres m'ont laissée un peu froide. L'auteur y décrit la vie dégradée par le chômage du personnage principal. Mais j'ai du mal à croire à cette description un peu fausse de la pauvreté, du petit boulot pourri, du SDF ou du jeune paumé. Je ne dis pas que l'auteur décrit des choses qui n'existent pas, mais il ne sait pas en saisir la réalité, il reste dans du superficiel, presque dans la caricature. Heureusement, quand il passe au monde du management, des cadres et des systèmes de recrutement, il devient beaucoup plus convaincant. Là, on sent la cruauté de la situation, le ton devient coupant et dur. La détermination du personnage principal en devient effrayante mais le monde qui l'entoure semble sans merci. Ça rappelle un peu <em>Le Couperet</em>, on retrouve cette même froideur, cette même horreur.
+
+La scène de la prise d'otages qui compose toute la seconde partie du livre est dans la même veine. C'est dans cette scène que l'auteur est le plus cruel et je pense que ça lui réussit. Le rythme est très bien tenu, haletant. L'horreur de la situation apparait pleinement surtout qu'elle est décrite très froidement, comme un compte rendu.  C'est vraiment la partie que j'ai préférée.
+
+Dans la troisième partie, on passe à du thriller plus classique mais bien maîtrisé. L'auteur sait nous tenir en haleine, nous révéler les choses une à une et doser comme il faut les rebondissements. Je l'ai lu avec plaisir et j'avais toujours envie de connaître la suite. L'histoire est convaincante et ne déçoit pas. Mais les ficelles sont un peu grosses et si on est très accro pendant la lecture, ce n'est pas un livre qui marque réellement. En conclusion, c'est de façon évidente un bon thriller et si c'est ce que vous cherchez, vous ne serez pas déçu. Cependant, je trouve que cela manque un peu de profondeur. Certains personnages sonnent creux, certaines situation semblent faciles, un livre agréable mais sans plus.
+
+Pour info, le livre sort le 3 février aux éditions <a href="http://www.editions-calmann-levy.com/Calmann_Levy/acc/acc01_accueil_f.jsp" target="_blank">Calmann-Levy</a> que je remercie d'ailleurs pour cette lecture agréable ! Vous pouvez visiter sur livraddict, la <a href="http://www.livraddict.com/biblio/book.php?id=5532" target="_blank">page bibliomania du livre</a> où vous trouverez d'autres critiques.

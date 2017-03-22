@@ -1,0 +1,17 @@
+Category: Divers
+Title: Les justes d'Albert Camus à La Colline : déception
+Date: 2010-04-01 21:31
+Author: viviane
+Tags: Spectacles
+Slug: les-justes-dalbert-camus-a-la-colline-deception
+Status: published
+
+Je vais toujours au théâtre avec enthousiasme mais j'ai été très déçue par la pièce que je suis allée voir mardi : Les justes d'Albert Camus, mis en scène par Stanislas Nordey.
+
+Je me réjouissais de découvrir le texte de Camus car je ne connaissais pas la pièce mais dès les 5 premières minutes, j'ai compris mon malheur. Les acteurs ne se regardent pas et fixent le vide d'un air profond. Ils clament leur texte vers le public, presque immobiles, découpant leurs phrases de façon artificielle et rendant la scène surréaliste. Une caricature de théâtre moderne et pourtant, nous ne sommes pas devant la dernière création contemporaine abstraite ! Prenant mon mal en patience, je décide de n'écouter que le texte. Pour cela, je dois me concentrer pour extraire le sens des phrases. Je me répète ces mêmes phrases dans ma tête avec une intonation normale et là, je vois se dérouler la scène : des terroristes sont dans un appartement, ils préparent un attentat, ils se disputent, certains se craignent ou s'admirent, des choses se passent ! Je m'imagine une mise en scène à l'opposée de celle qui se déroule devant moi, je vois la scène jouée d'une façon presque quotidienne car, pour moi, ces terroristes sont des vrais personnes et non des ectoplasmes.
+
+Toute la première partie de la pièce est ainsi gâchée. L'exercice mental étant difficile, je décroche parfois et me laisse traverser par des pensées diverses. Quand, habituée petit à petit, je me laisse un peu prendre par le texte, une intonation ridicule, un cri faux et déplacé me fait grimacer. C'est dur de voir les choses massacrées à ce point. La deuxième partie est plus intéressante. La mise en scène prend plus de souplesses et, parallèlement, semble enfin justifiée. C'est aussi dû au jeu de Vincent Dissez qui malgré la lourde contrainte du "je n'ai pas le droit de bouger" arrive à nous transmettre la vie, l'émotion de son personnage. De façon générale, le jeu des acteurs essaie de sauver la mise et parfois, on est avec eux. Emmanuele Béart s'en sort tout à fait bien.
+
+Malheureusement la lourdeur de la mise en scène revient et nous tue dans la dernière partie. Fatigués de déjà deux heures de spectacle laborieux, on a du mal à se concentrer dans les dernières scènes. Le texte lui même ne semble plus être qu'un débat qui tourne à vide, comme des idées dans une machine à laver. Et pourtant, je suis persuadée, qu'en tournant les choses un peu différemment, cette dernière partie pourrait prendre du sens.
+
+Car oui, la pièce de Camus est du "théâtre d'idée" mais c'est surtout du théâtre ! Quand on joue, il faut oublier les idées, elles sont déjà là, elles sont dans le texte, les personnages ne sont pas des idées ! Au contraire, il faut leur donner de la vie, de la réalité. Dans la dernière scène, une jeune femme réclame le récit de la mort de son amant, sacrifié à la "cause". En insistant sur le débat et en posant, grandiloquement, les questions tournées et retournées dans la pièce, on ressent juste la lourdeur du propos. Alors que si l'on voyait vraiment cette jeune femme, dans toute sa contradiction, aimer et perdre, désirer et renoncer, l'idée serait vivante et nous troublerait vraiment.

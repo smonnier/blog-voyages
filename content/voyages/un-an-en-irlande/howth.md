@@ -1,0 +1,31 @@
+Category: Voyages
+Title: Howth
+Date: 2006-09-19 17:11
+Author: viviane
+Tags: Un an en Irlande !
+Slug: howth
+Status: published
+
+<img class="alignleft size-full wp-image-458" title="Irlande" src="http://www.viviane-voyages.com/wp-content/uploads/2009/12/1.JPG" alt="Irlande" width="112" height="150" />Samedi dernier, le temps était absolument magnifique. C’est pour cela que nous avons décidé d’aller faire un tour à <strong>Howth</strong>, la presqu’île au nord de la ville.
+
+Comme tous les samedi, nous sommes d’abord aller à l’échange linguistiques japonais où nous avons enfin rencontré une coréenne !! (Qui parlait très bien le japonais, d’ailleurs). Ensuite, après s’être restauré d’un Bagel (sorte de gros pain rond en forme de beignet) nous avons pris le bus 32 vers Howth. Nous n’étions sans doute pas les seuls à avoir eu la même idée, car nous sommes bien restés ½ h dans les embouteillages. Le bus avançait lentement le long de la côte. Sur notre gauche de riches propriétés aux architectures étonnantes et pas toujours de très bon goût, sur notre droite la longue baie verdâtre désertée par la marée qui sépare la ville de Bull Island et devant nous la silhouette imposante de la presqu’île se découpant sur le ciel bleu.
+
+<img class="aligncenter size-full wp-image-459" title="Irlande" src="http://www.viviane-voyages.com/wp-content/uploads/2009/12/2.JPG" alt="Irlande" width="150" height="112" />
+
+Enfin le bus traverse la petite langue de terre large d’à peu prés un kilomètre qui relie Howth au reste du monde et nous arrivons sur la presqu’île. Nous décidons de rester jusqu’au terminus et passons devant le petit port ensoleillé plein de dublinois ravis. Puis le bus monte dans le village vers ce qui semble être le point culminant de l’île où il nous laisse en touristes égarés.
+
+<img class="alignleft size-full wp-image-460" title="Irlande" src="http://www.viviane-voyages.com/wp-content/uploads/2009/12/3.JPG" alt="Irlande" width="112" height="150" />Très vite, nous trouvons le début d’une balade à travers la lande. En bas, il y a la mer, autour il y a le ciel. Nous marchons entourés par les buissons hirsutes balayés par le vent. De loin, ils prennent une couleur rouille, mais des éclats de jaune doré, de mauve et de vert rendent le paysage magnifique. La côte se termine par des falaises abruptes au pied desquelles la mer vient se jeter.
+
+<img class="aligncenter size-full wp-image-461" title="Irlande" src="http://www.viviane-voyages.com/wp-content/uploads/2009/12/4.JPG" alt="Irlande" width="150" height="112" />
+
+Après vingt minutes de marche, notre chemin rejoint la route. Nous descendons alors vers la ville à travers un petit chemin boisé. Nous mangeons les cacahouètes achetées au marché et cueillons quelques mures sur les ronces envahissantes. Derrière les roches, nous découvrons une plage, personne de se baigne mais la mer turquoise brille sous un soleil estival.
+
+<img class="alignleft size-full wp-image-463" title="Irlande" src="http://www.viviane-voyages.com/wp-content/uploads/2009/12/5.JPG" alt="Irlande" width="150" height="112" />Enfin, nous arrivons dans le centre, marchons sur la grève le long des bateaux, dans le soleil et le vent. Il est déjà cinq heures, nous décidons d’aller prendre une tasse de thé. En chemin, nous croisons une de nos connaissances françaises (c’est qu’on commence à connaître beaucoup de gens à Dublin). Comme nous, elle profite du beau temps et s’est même baignée ! Elle nous affirme même que l’eau était bonne mais comme elle est bretonne, je me méfie.
+
+On est entré dans un petit salon de thé pas très cher dans lequel nous avons enfin goûté au gâteau à la carotte (assez bon d’ailleurs). Puis nous avons pris le chemin du retour. Plutôt que de prendre le bus, nous avons commencé la route à pied. Assez rapidement, nous avons trouvé comment rejoindre la plage de Sutton qui relie Howth à la ville. Pied nue dans le sable froid, je marche doucement sous le soleil de la fin de l’après-midi. La mer montante recouvre peu à peu les longues langues dorées. Sous les rayons du soir, le sable oscille entre l’ocre, le brun et le beige. Les ombres s’allongent et la mer argentée brille sous le ciel si clair.
+
+<img class="aligncenter size-full wp-image-464" title="Irlande" src="http://www.viviane-voyages.com/wp-content/uploads/2009/12/61.JPG" alt="Irlande" width="150" height="112" />
+
+<img class="alignleft size-full wp-image-465" title="Irlande" src="http://www.viviane-voyages.com/wp-content/uploads/2009/12/7.JPG" alt="Irlande" width="150" height="112" />Nous rejoignons une station de Dart et commençons à étudier le plan pour savoir comment rentrer chez nous. Howth n’est pas très loin de Coolock où nous habitons, cependant il n’y a pas de bus qui les relient ! Il faudrait passer par le centre ville ou par Malahide au nord mais le détour engendré serait vraiment stupide. Le seul moyen est de rejoindre à pied le terminus du bus 17 qui s’arrête raisonnablement près de notre rue. Nous sommes déjà un peu fatigués et essayons de prendre un raccourci. Mauvaise idée !! Nous nous perdons dans les quartiers résidentiels dublinois sous la nuit tombante, puis sous la nuit tombée, entre les petites maisons et les chats effrayés. La balade sur la plage est bien loin et j’essaye de me concentrer pour retrouver la sensation de mes pieds nus dans le sable pour oublier la douleur que j’éprouve à chaque pas. Nous avions quitté le petit salon de thé à 17h30 et il est bien 20h quand on arrive enfin à l’arrêt de bus. Commence alors une longue attente heureusement égaillée par la présence d’une dublinoise avec qui nous discutons. Nous parlons du beau temps, du temps en général, de la violence des jeunes, des problèmes de drogues, de la soirée chez sa sœur et des voyages en Grèce. Enfin le bus arrive et nous découvrons (avec l’aide de la dublinoise) qu’il s’arrête vraiment juste à côtés de chez nous. C’est une information assez intéressante étant donné que ce bus va à l’aéroport…
+
+Enfin, nous arrivons chez nous. Ereintés mais contents. Le dimanche, il fait moins beau et nous passons la journée à dormir, à glander, et à réviser notre coréen. Il faut bien se reposer des temps en temps !

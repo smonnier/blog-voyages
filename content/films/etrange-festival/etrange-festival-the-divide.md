@@ -1,0 +1,19 @@
+Category: Films
+Title: Etrange festival : The Divide
+Date: 2011-09-03 23:32
+Author: viviane
+Tags: Etrange festival, 
+Slug: etrange-festival-the-divide
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2011/09/divide.jpg"><img class="alignleft size-thumbnail wp-image-2252" title="The Divide" src="http://www.viviane-voyages.com/wp-content/uploads/2011/09/divide-150x150.jpg" alt="" width="150" height="150" /></a>
+
+Avec la rentrée arrive l'Etrange Festival au forum des images qui me donne envie de me replonger dans ma passion pour les films horrifiques et qui me console grandement du retour prochain de l'automne. Évidemment, j'ai toujours plein de choses à faire à cette période et il est difficile de profiter complètement de l'événement. Mais j'ai tout de même réussi à me concocter un petit programme de 5 films sur les dix jours de festival.
+
+Je commence par le film d'ouverture, <em>The Divide</em>, de Xavier Gens projeté dans la grande salle de 500 places pleine de tous ces cinéphiles un peu barrés, spécialistes des films de genre. Avant d'assister au film, on a le droit au discours de Jean-Pierre Mocky, au ton décalé, puis à la projection d'un excellent court métrage néerlandais, <em>Sucre</em>, pour nous mettre dans l'ambiance.
+
+Xavier Gens est un <em></em>réalisateur de genre français ce qui en soi fait qu'on s'intéresse à ce qu'il réalise. De lui, j'ai vu <em>Frontière(s)</em> qui m'a principalement déçue mais ne m'a pas découragée définitivement. Il a aussi eu une aventure peu concluante à Hollywood avec <em>Hitman </em>mais là encore, ce n'est pas vraiment assez pour juger de son talent. Ici, il nous offre un film à très petit budget, série B tournée au Canada et qui a bien failli de jamais voir le jour. Il a fallut que les parents du stagiaire régie bouclent le budget du film en rajoutant les 2 millions de dollars qui manquaient (visiblement, ils avaient très envie que leur fiston trouve un stage pour l'été). Mais après le carcan hollywoodien, Xavier Gens a visiblement apprécié la liberté que lui offrait le cinéma indépendant.
+
+Je me suis disputée sur ce film avec Seb qui le rangeait sans hésitation dans la catégorie des navets irrécupérables. Eh bien, non, je ne suis pas d'accord, moi j'ai pris plaisir à regarder <em>The Divide</em> que j'ai trouvé bien mieux que <em>Frontière(s)</em>. Si les faiblesses du scénario me sont apparues après coup, j'ai tout de même réussi à y croire le temps du film, à rentrer dans l'ambiance. C'est un huis clos sur fond de catastrophe nucléaire, entre le survival et la SF. Il y a des scènes très réussies comme celles où des hommes en combinaison blanche avec des fusils entrent dans la cave où sont retranchés les survivants égarés. Certes si Xavier Gens s'en sort très bien techniquement, on retrouve les mêmes défauts que dans <em>Frontière(s)</em> : un scénario qui flanche et une direction d'acteurs pas toujours au top. Le film manque de choix clairs sur la direction à prendre et l'évolution des personnages est à la fois un peu convenue et pas toujours crédible (même si, à vrai dire, ce sont des réflexions à posteriori, ça ne m'a pas choquée pendant que je regardais). Les personnages manquent d'une profondeur qui donnerait un vrai sens à leurs relations et à leur folie et qui serait salutaire pour le type de huis clos que le réalisateur a voulu nous montrer. Reste un film sombre qui arrive à tenir la route jusqu'au bout et à conserver une noirceur authentique et inquiétante. J'espère qu'il permettra à Xavier Gens de continuer sa carrière car j'attends encore de lui le film qui permettra de le considérer comme un réalisateur de talent : encore un effort !!
+
+&nbsp;

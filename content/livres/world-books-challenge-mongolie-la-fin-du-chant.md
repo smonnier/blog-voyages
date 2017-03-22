@@ -1,0 +1,9 @@
+Category: Livres
+Title: World Books Challenge : Mongolie, La Fin du Chant
+Date: 2010-09-18 12:03
+Author: viviane
+Tags: , World Books Challenge
+Slug: world-books-challenge-mongolie-la-fin-du-chant
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/09/la-fin-du-chant.gif"><img class="alignleft size-thumbnail wp-image-1671" title="La fin du chant" src="http://www.viviane-voyages.com/wp-content/uploads/2010/09/la-fin-du-chant-150x150.gif" alt="" width="150" height="150" /></a> A l'occasion de mon voyage cet été, j'ai découvert Galsan Tschinag, auteur mongol qui écrit en allemand et qui est donc largement traduit. Son œuvre la plus connue est sans doute <em>Ciel</em> qui décrit son enfance dans le Haut-Altaï, mais, pour le world books challenge, j'ai préféré choisir <em>La Fin du chant</em>. Dans ce roman, j'ai trouvé une finesse d'écriture et de récit qui m'a touchée profondément. Les histoires se mêlent, les personnages se racontent de digression en digression mais la trame principale toujours avance. Au départ du récit, cette jument qui ne veut pas du poulain qu'on lui présente pour remplacer son petit mort et cette jeune fille qui a perdu sa mère et qui s'acharne à réunir les deux êtres. Et bien sûr, comme dans toutes les œuvres de cet auteur, on retrouve la Mongolie et plus particulièrement l'Altaï, avec ses paysages grandioses, ses steppes, son climat extrême dont Galsan Tschinag sait si bien rendre l'atmosphère. Il en raconte aussi l'histoire, les bouleversements,  le temps qui passe : à chacune de mes lectures, j'ai découvert un peu plus de ce pays dont je n'ai pu voir qu'un petit morceau lors de mon voyage. <em>La Fin du Chant </em>est un livre pour voyager, pour découvrir un autre monde dans toute sa beauté et sa réalité, mais c'est aussi un très bon roman plein de sensibilité et de finesse.

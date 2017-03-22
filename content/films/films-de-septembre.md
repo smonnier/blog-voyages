@@ -1,0 +1,15 @@
+Category: Films
+Title: Films de septembre
+Date: 2010-10-06 22:11
+Author: viviane
+Tags: , Mes films vus
+Slug: films-de-septembre
+Status: published
+
+<strong>En septembre, 5 films !</strong> dont 2 dont j'ai déjà parlé à propos de <a href="http://www.viviane-voyages.com/divers/films/etrange-festival-2010">l'étrange festival</a>.
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/10/piranha-3d.jpg"><img class="alignleft size-thumbnail wp-image-1710" title="Piranha 3D" src="http://www.viviane-voyages.com/wp-content/uploads/2010/10/piranha-3d-150x150.jpg" alt="" width="150" height="150" /></a> <em>Piranha 3D</em> de Alexandre Aja</h3>
+Ce réalisateur français amateur de gore nous avait déjà offert le très beau remake <em>La Colline a des yeux</em>. Ici, il reprend encore des vieux classiques avec <em>Piranha 3D</em>. Je ne suis pas une fan de la 3D, je ne trouve pas que ça fasse de belles images et ça donne mal aux yeux. Mais j'aime la façon dont c'est ici décalé pour jouer avec de  gros poissons méchants.  Tout est trop dans ce film, rien n'est à prendre au sérieux et c'est ce qui le rend agréable. On nous montre des corps parfaits, des tas de beaux jeunes gens et tout le monde se fait déchiqueter par les poissons dans un vrai bain de sang. Amateurs de gore, bienvenue !
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/10/oncle-boonmee.jpg"><img class="alignleft size-thumbnail wp-image-1711" title="Oncle Boonmee" src="http://www.viviane-voyages.com/wp-content/uploads/2010/10/oncle-boonmee-150x150.jpg" alt="" width="150" height="150" /></a> <em>Oncle Boonmee, celui qui se souvenait de ses vies antérieures</em> de Apichatpong Weerasethakul</h3>
+C'est le premier film que je vois de ce réalisateur dont j'étais curieuse. La palme d'or à Cannes semblait une bonne occasion. Mais il m'a surtout laissée perplexe. Les scènes sont assez belles prises une à une mais j'ai eu du mal à rester concentrée, je ne voyais pas vraiment où ça allait. Ça ne me gène pas de ne pas tout comprendre à un film mais j'aime ressentir une certaine cohérence qui ici m'a manquée. Peut-être ma sensibilité mystique n'est-elle pas assez développée ?
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/10/des-hommes-et-des-dieux.jpg"><img class="alignleft size-thumbnail wp-image-1712" title="Des hommes et des dieux" src="http://www.viviane-voyages.com/wp-content/uploads/2010/10/des-hommes-et-des-dieux-150x150.jpg" alt="" width="150" height="150" /></a> <em>Des hommes et des dieux</em> de Xavier Beauvois</h3>
+C'est agréable de voir un bon film français surtout sur un sujet aussi sensible. Pourtant je ne suis pas croyante et pas très friande de sujet religieux. Mais ici, j'ai trouvé que le questionnement sur la foi, le devoir, le sacrifice était très joliment amené. Les acteurs jouent tous parfaitement bien et la réalisation est très travaillée, toute de longs plans, de lumières et de détails. Le film ne prend pas parti et nous fait comprendre le combat et le choix de ces moines ce qui n'était pas aisé.

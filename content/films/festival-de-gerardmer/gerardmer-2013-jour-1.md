@@ -1,0 +1,19 @@
+Category: Films
+Title: Gerardmer 2013 jour 1
+Date: 2013-02-02 09:24
+Author: viviane
+Tags: Festival de Gerardmer, 
+Slug: gerardmer-2013-jour-1
+Status: published
+
+Nous commençons le festival le jeudi matin avec une séance au Casino : <em>The Complex</em> d'Hideo Nakata. Il est passé la veille au soir lors de la séance d'ouverture à laquelle nous n'avons pas assisté. Si Hideo Nakata avait révolutionné le genre avec <em>The Ring</em> et <em>Dark Water</em>, il ne révolutionne pas grand chose avec ce film là. Le film est correct dans la forme et plutôt bien réalisé mais les histoires de fantômes japonais sont un peu répétitives et ici il n'apporte rien de nouveau. Les personnages manquent de profondeur, l'histoire est tarabiscotée et prévisible, il y plein de fantômes partout et de secrets révélés toutes les demi-heures. Un film qui sera vite oublié, mélangé dans ma mémoire avec tant d'autres bien peu mémorables.
+
+Le film suivant, hors compétition à l'espace lac n'est pas non plus inoubliable. <em>La Maison du bout de la rue </em>se laisse regarder mais sans plus. Au final, ça ressemble plus à un film pour adolescent. Le seul intérêt vient de l'actrice principale, Jennifer Lawrence de <em>Hunger Games,</em> qui arrive à donner à son personnage un peu de caractère.
+
+Nous enchainons dans le même cinéma avec un nouveau film en compétition, <em>Remington and the curse of the Zombadings</em> qui nous vient des Philippines. Celui là a au moins le goût d'être original. On ne sait trop quoi en penser, maladroit et presque amateur, il arrive tout de même à communiquer sa folie délirante : le personnage principal a été touché d'un sort qui le rend homosexuel. Tout est à l'image de ce résumé, délirant et improbable.
+
+Pour rentrer dans la séance suivante, il faut attendre une heure sous la pluie. Comme beaucoup, j'aurai préféré de la neige mais on ne choisit pas sa météo. C'est donc bien trempé que nous rentrons à nouveau à l'Espace Lac pour voir le troisième film en compétition de la journée. Avant ça un hommage au réalisateur mexicain Taboada (inconnu de moi et pas seulement de moi) qui donne très envie de découvrir son oeuvre. Mais le film que l'on voit maintenant est <em>The Bay</em>. C'est ce qu'on appelle un "found footage", c'est à dire une fiction présentée comme un fait réel à travers des caméras faussement amateur. Le film décrit une catastrophe naturelle / écologique qui touche une petite ville et décime ses habitants (à travers l'eau de la baie). Se voulant très réaliste, il souffre de quelques manques de crédibilités, mais tient bien ses promesses. L'apparition soudaine de la maladie, la tension qui monte dans la ville qui bientôt se transforme en ville fantôme. On en sort avec des démangeaisons (les gens ont des gros boutons rouges pas beaux du tout) et on lance un regard torve à l'innocent lac de Gerardmer aux eaux troubles.
+
+Nous avons de le temps de repasse à l'appart très rapidement avant de retourner à l'espace lac pour le dernier film. Nous avons laissé nos vêtements mouillés et pris une soupe chaude, cela va mieux. Nous assistons à une projection rétrospective de Taboada. L'espace lac parrait vide car les festivaliers ne pressent pas pour voir des films des années 60. Mais ils ont tort ! Le film en question est <em>Hast el viento tiene miedo</em>. même le vent a peur. Un huis clos dans un pensionat de jeune fille filmé avec intelligence, une ambiance poétique et angoissante. Les scènes où les jeunes pensionnaires marchent dans la nuit balayée par le vent rappellent Argento (la musique psychadélique en moins), un vrai film fantastique à l'ancienne et une jolie découverte.
+
+C'est fini pour la première journée, mon esprit est assez encombré et j'ai du mal à dormir mais le programme est encore long !

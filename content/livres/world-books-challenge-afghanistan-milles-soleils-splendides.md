@@ -1,0 +1,15 @@
+Category: Livres
+Title: World Books Challenge : Afghanistan, Mille soleils splendides
+Date: 2010-10-10 16:47
+Author: viviane
+Tags: , World Books Challenge
+Slug: world-books-challenge-afghanistan-milles-soleils-splendides
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/10/milles-soleils-splendides.jpg"><img class="alignleft size-thumbnail wp-image-1719" title="Mille soleils splendides" src="http://www.viviane-voyages.com/wp-content/uploads/2010/10/milles-soleils-splendides-150x150.jpg" alt="" width="150" height="150" /></a> Pour l'Afghanistan, j'avais depuis longtemps envie de découvrir le mondialement connu Khaled Hosseini. Cependant, il se trouve que par hasard, je ne lis pas son best seller <em>Les Cerfs volants de Kaboul</em> mais son second roman, moins connu, <em>Mille soleils splendides</em>... Et je ne regrette pas du tout !
+
+Dans <em>Mille soleils splendides, </em>l'auteur raconte son pays à travers le regard de deux femmes. Ce n'est pas choix commun pour un auteur masculin, surtout dans un pays où la femme est si souvent bafouée, où se qu'elle pense et ce qu'elle ressent si souvent ignoré. Mais l'auteur se plonge au cœur de leur ressenti et fait vivre son pays par leurs yeux. La première nait en 1959, la seconde le jour de la révolution en 1978. A travers elles deux, témoins et victimes, on découvre toute l'histoire de l'Afghanistan : ses coutumes et ses contrastes, l'occupation communiste, la guerre civile, les talibans. Mais le récit historique en arrière plan n'empêche pas le récit de la vie des ces deux femmes, récit dans lequel on se plonge complètement. L'identification à ces personnages, la compréhension profonde qu'on a d'elles nous aide à mieux ressentir le pays lui même et les évènements qui le chamboulent. C'est un livre prenant, je l'ai lu en à peine quelques jours. On a pas envie de s'en détacher, il est empreint de suspense, de douleurs, de beauté.
+
+Et on découvre aussi une ville, Kaboul dont on ne connait toujours que la face meurtrie, que les rues ensanglantées par les bombes, l'image d'une ville perpétuellement en guerre. Ici, on découvre l'amour des Afghans pour leur ville. On voit ce qu'elle était avant la guerre,  la richesse  et la beauté qu'elle enferme, on voit ce qu'elle pourrait devenir en temps de paix. On comprend la douleur que doivent éprouver les habitants de voir leur pays et leur culture ravagés par des années de guerre.
+
+La situation politique actuelle nous empêche de voyager en Afghanistan et de découvrir réellement ce pays. Certaines de ses richesse culturelles sont perdues à jamais, comme les Bouddhas de pierre.  Mais Khaled Hosseini nous offre son pays à travers son livre. Il nous permet de mieux comprendre l'Afghanistan, de découvrir sa complexité et sa beauté malgré la guerre, les burqas et les talibans.

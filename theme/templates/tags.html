@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block sitetitle %}
+    <h1>Tags.</h1>
+{% endblock %}
+{% block content %}
+<ul>
+{% for cat, articles in tags |sort %}
+    <li><a href="{{ SITEURL }}/{{ cat.url }}" >{{ cat.name }} ({{ articles | length }})</a></li>
+{% endfor %}
+</ul>
+{% endblock %}

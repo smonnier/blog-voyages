@@ -1,0 +1,27 @@
+Category: Films
+Title: Films de Mars
+Date: 2010-04-08 22:35
+Author: viviane
+Tags: , Mes films vus
+Slug: films-de-mars
+Status: published
+
+<h3>En mars, 6 films !</h3>
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/04/avatar.jpg"><img class="alignleft size-thumbnail wp-image-1269" title="Avatar" src="http://www.viviane-voyages.com/wp-content/uploads/2010/04/avatar-150x150.jpg" alt="" width="150" height="150" /></a><em>Avatar</em> de James Cameron</h3>
+Et oui, ce n'est qu'en mars que j'ai vu Avatar, un peu en retard sur tout le monde. A vrai dire, ce film ne m'attirait pas du tout, et donc, à chaque fois, il y avait quelque chose de mieux à voir. Mais bon, comme j'ai vu qu'il passait encore au MK2 Nation en 3D...
+
+Enfin bref, c'est un film agréable même si la 3D donne un peu mal à la tête, de belles images c'est vrai. Et puis ça offre la satisfaction que tout se passe exactement comme on se l'imagine, on sait tout de suite qui est le méchant (on peut pas le louper) et qui sont les gentils. Il y aurait pu avoir des thèmes un peu plus poussés comme par exemple celui du rapport au corps, légèrement abordé, mais tout est finalement tellement édulcoré que ça en devient une belle fable rose bonbon et sans tâches.
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/04/i_love_you_phillip_morris.jpg"><img class="alignleft size-thumbnail wp-image-1270" title="I Love you Philip Morris" src="http://www.viviane-voyages.com/wp-content/uploads/2010/04/i_love_you_phillip_morris-150x150.jpg" alt="" width="150" height="150" /></a><em>I Love You, Philip Morris</em> de John Requa et Glenn Ficarra</h3>
+Ce second film du mois est beaucoup plus dérangeant que le premier ! D'ailleurs, il n'est toujours pas sorti aux Etats-Unis. Mais qu'est ce qui dérange exactement ? C'est difficile à dire... Il y a déjà eu des films sur l'homosexualité mais celui là fait tellement dans l'extrême, presque caricatural, qu'il choque sans doutes des deux côtés !
+
+J'avais peur d'être un peu sur la réserve, mais j'ai véritablement apprécié ce film, et ri à de nombreux moments. Cela tient beaucoup au jeu de Jim Carrey qui même dans l'extrême et l'excès arrive à trouver une vérité touchante à son personnage et qui le rend humain derrière les grimaces.
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/04/shutter_island.jpg"><img class="alignleft size-thumbnail wp-image-1271" title="Shutter Island" src="http://www.viviane-voyages.com/wp-content/uploads/2010/04/shutter_island-150x150.jpg" alt="" width="150" height="150" /></a><em>Shutter Island</em> de Martin Scorsese</h3>
+On retrouve ici le duo Scorses -Dicaprio déjà présents dans de nombreux films pour une adaptation d'un roman de Denis Lehane. J'avais pour ma part lu et apprécié le roman et donc pas de grosses surprises pour moi car le film reste très fidèle à l'auteur. J'ai pu donc apprécier la réalisation, l'image très travaillée, tout cet univers créé pour faire ressentir la folie au spectateur d'une façon profonde et glaçante. Une belle réussite.
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/04/Soul-Kitchen.jpg"><img class="alignleft size-thumbnail wp-image-1272" title="Soul Kitchen" src="http://www.viviane-voyages.com/wp-content/uploads/2010/04/Soul-Kitchen-150x150.jpg" alt="" width="150" height="150" /></a><em>Soul Kitchen</em> de Faith Akin</h3>
+Je n'ai malheureusement pas vu les autres films de ce réalisateur dont j'ai entendu beaucoup de bien. Mais j'ai pu apprécier cette très agréable comédie pleine de personnages délirants et de situations ubuesques. C'est ce qu'on appelle un "feel good movie" : agréable, drôle et qui met de bonne humeur pour la journée !
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/04/The_Ghost_Writer.jpg"><img class="alignleft size-thumbnail wp-image-1273" title="The Ghost Writer" src="http://www.viviane-voyages.com/wp-content/uploads/2010/04/The_Ghost_Writer-150x150.jpg" alt="" width="150" height="150" /></a><em>The Ghost Writer</em> de Roman Polanski</h3>
+Ça pourrait être un film d'espionnage classique mais ça ne l'est pas. Il y a quelque chose en plus, quelque chose d'effrayant dans cette maison trop parfaite, dans cette secrétaire trop blonde et dans cette épouse taciturne.
+
+L'angoisse est perceptible dans le jeu de Ewan McGregor et se transmet sans peine au spectateur scotché. On se laisse entrainer dans cette histoire sordide, tout comme le personnage principal, par accoups, comme plongés malgré nous dans un univers hostile. On sent la maitrise du réalisateur qui ne laisse rien au hasard, on est pris...
+<h3><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/04/les-chevres-du-pentagone.jpg"><img class="alignleft size-thumbnail wp-image-1274" title="Les chevres du pentagone" src="http://www.viviane-voyages.com/wp-content/uploads/2010/04/les-chevres-du-pentagone-150x150.jpg" alt="" width="150" height="150" /></a><em>Les Chèvres du Pentagone</em> de Grant Heslov</h3>
+Une comédie un peu ovni et troisième film du mois avec Ewan McGregor ! Le synopsis ne m'attirait pas mais j'ai été séduite par la bande annone et les bonnes critiques. Je ne regrette pas du tout. Le duo comique Clooney / McGregor fonctionne très bien dans le genre "les boulets en Irak". Mais derrière le cocasse et la clownerie, on sent le sarcasme et l'amertume face à la société américaine. Et puis, une question demeure, jusqu'où va la vérité ? Une phrase annonce en préambule "Ce film est plus vrai que vous ne pourriez le croire"...

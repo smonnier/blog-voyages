@@ -1,0 +1,21 @@
+Category: Films
+Title: Gerardmer 2013 palmarès et conclusion
+Date: 2013-02-03 23:11
+Author: viviane
+Tags: Festival de Gerardmer, 
+Slug: gerardmer-2013-palmares-et-conclusion
+Status: published
+
+Vous trouverez le palmarès officiel et complet sur de nombreux site, ici je vais surtout en faire le commentaire.
+
+Sans grande surprise, <em>Mama</em> remporte plusieurs prix (grand prix, jury jeune, prix du public). Pour le grand prix, c'est assez logique. Je m'y attendais assez bien que j'ai entendu qu'il n'avait pas fait l'unanimité. En tout cas, c’est un choix assez consensuel qui fera plaisir au public. Le prix du jury jeune aussi me parassait évident. Pour le prix du public, je suis plus étonnée. Ayant été dans la salle, j'avais vraiment eu l'impression que <em>You're Next</em> avait remporté plus de suffrages et d'enthousiasme, mais bon, ça se jouait clairement entre les deux.
+
+<em>You're Next</em> ne repart qu'avec le prix SciFi. C'est bien dommage car c'est pour moi le meilleur film de la sélection et il a vraiment eu beaucoup de succès ici auprès du public.
+
+Le prix spécial du jury a été donné ex aequo à <em>Berberian Sound Studio</em> et <em>The End</em>. Pour le premier, je comprends tout à fait car c'est typiquement le genre de film qui peut plaire à un jury de réalisateurs : beau techniquement, audacieux, original. Mais alors <em>The End</em> ! Souvent le jury m'étonne mais là je ne m'y attendais vraiment pas, il était pour moi clairement en dessous et nageait dans le grand lac des films moyens et oubliables et d'ailleurs, je pense que l'avenir me donnera raison et qu'il sera complètement oublié (c'est pas la première fois que le jury se plante). Le prix de la critique est donné à <em>Berberian Sound Studio</em> ce à quoi je m'attendais aussi.
+
+J'ai lu que le jury n'avait pas apprécié les films et eu du mal à choisir son prix (qu'ils auraient sélectionné plutôt par défaut que par vrai engouement). En particulier, de nombreux membres avaient détesté <em>You're Next</em> ! C'est vrai que le film ne révolutionne pas le genre mais dans son style classique, il sait se rendre intelligent et drôle. Le scénario arrive à surprendre tout en nous offrant les scènes attendues. En particulier, les personnages et les dialogues y sont teintés de petites touches qui en font toute la qualité : un frère qui reste odieux avec sa famille même à moitié mort avec une flèche dans l'épaule, la grimace dégoutée de l'autre frère quand il reçoit son père mourant et ensanglanté dans les bras, le méchant masqué si impressionnant qui éclate en sanglot à la vue de l'autre méchant mort sur le sol ou bien qui se met à jurer d'une façon très naturelle et spontanée quand il se prend un pain dans la figure. J'ai lu que le film avait des défauts techniques, je ne suis pas spécialiste et ne les ai pas remarqué. On lui reproche de n'être pas révolutionnaire, d'user de grosses ficelles et d'une forme éculée, c'est vrai, mais il en use bien et on y prend du plaisir...
+
+Les membres du jury sont bien difficiles de n'avoir pas trouvé film à leur goût : peut-être surtout avaient-ils des avis si différents qu'ils n'arrivaient pas à se mettre d'accord. La sélection était variée et variée aussi en qualité, comme tous les ans. Chaque année, les spectateurs semblent redécouvrir qu'il y a aussi de mauvais films (ou tout simplement des films moyens) à Gerardmer mais il ne peut pas y avoir que des bons films ! Car, tout simplement, il n'y a pas toujours tant de bons films de genre. En fait, de façon générale, les bons films sont rares et les bons films de genre encore plus, et je ne parle même pas des difficultés de les faire venir au festival... Personnellement, je n'ai pas trouvé la sélection cette année moins bonne qu'une autre. Ce n'était pas une "grande" année comme il y en a eu parfois (mais même dans ce cas, il y a souvent des daubes, simplement on en retient certains plus que d'autres) mais j'ai vraiment apprécié.
+
+Par ailleurs, je me demande un peu ce que Christophe Lambert venait faire là car comme spécialiste de film de genre, on fait mieux... Mais bon, j'avoue que sur le plan du jury (et de ses choix discutables), j'ai souvent plus à redire que sur la programmation.

@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+{% block sitetitle %}
+    <h1>{{ category }}.</h1>
+{% endblock sitetitle %}
+{% block upper_content %}
+{% import 'tags_category_macro.html' as tags_category_macro with context %}
+<div class="containter-fluid tagcloud" >
+        {{ tags_category_macro.tags_category(category) }}
+</div>
+{% endblock %}

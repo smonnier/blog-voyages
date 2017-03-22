@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block sitetitle %}
+    <h1>Archives.</h1>
+{% endblock %}
+{% block content %}
+{% set year = "" %}
+<ul>
+{% for article in articles %}
+    {% set ayear = article.date |strftime("%Y") %}
+    {% if ayear != year %}
+</ul>
+<h2>{{ ayear }}</h2>
+<ul>
+        {% set year = ayear %}
+    {% endif %}
+    <li>{{ article.category }}, {{ article.locale_date }} <a href="{{ SITEURL }}/{{ article.url }}" >{{ article.title }}</a></li>
+{% endfor %}
+</ul>
+{% endblock %}

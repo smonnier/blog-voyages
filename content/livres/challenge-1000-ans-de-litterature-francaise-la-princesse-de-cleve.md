@@ -1,0 +1,13 @@
+Category: Livres
+Title: Challenge 1000 ans de littérature française : La Princesse de Clève
+Date: 2011-06-04 23:42
+Author: viviane
+Tags: Challenge littérature française, 
+Slug: challenge-1000-ans-de-litterature-francaise-la-princesse-de-cleve
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2011/06/princesse-de-cleve.jpg"><img class="alignleft size-thumbnail wp-image-2057" title="princesse de cleve" src="http://www.viviane-voyages.com/wp-content/uploads/2011/06/princesse-de-cleve-150x150.jpg" alt="" width="150" height="150" /></a> Revoilà le <a href="http://mediatexte.blogspot.com/p/challenge-1-000-ans-de-litterature.html">challenge 1000 ans de littérature française</a> proposé par <a href="http://mediatexte.blogspot.com/">Bookine</a>. Ce trimestre, nous lisons Mme de La Fayette, et en particulier, <em>La princesse de Clève</em>. Il est agréable de trouver quelques femmes dans l'histoire de la littérature française, car, comme partout, leur situation fait qu'elles sont peu représentées. Et ici, Mme de Lafayette n'a pas écrit un simple roman, elle a pratiquement inventé le roman moderne !
+
+Le récit est précis et historique, mais les personnages sont au centre, on croirait presque lire une œuvre du XIXeme siècle. J'ai apprécié la description de la cour, de ses travers, de ses petites histoires. Bien sûr, ma culture de la cour de Henri II n'étant pas très développée, j'ai parfois eu un peu de mal à m'y retrouver au milieu des personnages. Il faut s'accrocher un peu au début pour ne pas se perdre complètement. Mais ensuite, l'intrigue principale prend le relai et nous voilà dans l'esprit de Mme de Clève, torturée par son amour pour le Duc de Nemour. Je ne suis pas très touchée par les grandes amours romantiques mues d'une passion immatérielle et infinie. Mais le personnage de Mme de Clève est beau dans sa simplicité et son innocence. On se laisse toucher par son histoire, par le dilemme moral auquel elle est confrontée. Évidemment, Mme de Lafayette en profite pour  critiquer la vanité de la cour devant la sincérité de son personnage. Cependant, le message ne me semble pas si clair, par son honnêteté, Mme de Clève n'apporte que le malheur à son mari et le conduit à sa mort. Et est-ce  vraiment la morale qui l’empêche de rejoindre le duc de Nemour ? On sent surtout sa volonté de ne pas flétrir un amour parfait et idéal, quitte à ne pas vivre sa propre vie. Un livre moins simple qu'il n'y parait, une réflexion ouverte sur les meurs de la cour, sur la morale et sur l'amour.
+
+<a href="http://mediatexte.blogspot.com/2011/06/challenge-1-000-ans-de-litterature-les.html">Allez voir ce que les autres participants ont pensé de l'oeuvre ! </a>

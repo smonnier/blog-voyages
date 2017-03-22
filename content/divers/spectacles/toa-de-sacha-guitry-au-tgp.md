@@ -1,0 +1,17 @@
+Category: Divers
+Title: Toa de Sacha Guitry au TGP
+Date: 2010-10-02 11:38
+Author: viviane
+Tags: Spectacles, Tous au théâtre
+Slug: toa-de-sacha-guitry-au-tgp
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/10/toa.jpg"><img class="alignleft size-thumbnail wp-image-1702" title="Toa" src="http://www.viviane-voyages.com/wp-content/uploads/2010/10/toa-150x150.jpg" alt="" width="150" height="150" /></a> En ce moment et jusqu'au 17 octobre se joue au <a href="http://www.theatregerardphilipe.com/tgp-cdn/" target="_blank">Théâtre Gerard Philipe de Saint-Denis</a> la pièce <a href="http://www.theatregerardphilipe.com/tgp-cdn/toa" target="_blank">Toa de Sacha Guitry</a>. Elle a été montée par une jeune compagnie <a href="http://www.lapiccolafamilia.fr/" target="_blank">La Piccola Familia</a>. Le metteur en scène et acteur principal de la pièce est Thomas Joli que je connais déjà pour l'avoir suivi depuis ses débuts.
+
+Avec cette pièce, je découvre pour la première fois un texte de Sacha Guitry. Découvrir un texte directement au théâtre est toujours un peu dangereux, voir mon expérience malheureuse avec <a href="http://www.viviane-voyages.com/divers/spectacles/les-justes-dalbert-camus-a-la-colline-deception" target="_blank">Les Justes de Camus</a>. On découvre à la fois le texte et l'interprétation, on nous donne déjà un sens. Mais quand l'interprétation est bonne, alors le texte prend toute la vie et toute la force qu'il n'aurait pas eue sur le papier. Le texte est ici central, on l'entend d'ailleurs parfaitement malgré la vitesse avec laquelle il est parfois envoyé. La mise en scène est colorée, très stylisée, très travaillée mais les acteurs ne sont pas là pour "jouer" le texte, ils nous envoient les mots et expriment toute leur absurdité et leur poésie.
+
+La pièce s'enroule autour d'un thème principal : la confusion entre théâtre et réalité. Cette confusion est parfaitement rendue par la mise en scène et ce dès la première apparition d'une "présentatrice" devant le rideau qui nous annonce ce qui va être joué. Ce décalage, on le retrouve ensuite dans le premier acte quand les acteurs essaient tant bien que mal de jouer les didascalies lues en voix off. La suite, je ne vous la révèle pas mais j'ai aimé l'évolution du jeu et de la mise en scène à travers les actes qui a su à la fois nous perdre et nous garder. La pièce est rythmée et drôle, les rires fusaient dans la salle et les applaudissement furent chaleureux. Certains effets étaient parfois un peu moins convaincants que d'autres mais on sent tout au long du spectacle l'énergie et l'inventivité de la jeune troupe. Ils nous ont offert et ont partagé avec nous ce texte, une belle découverte pour le public et un beau travail pour les acteurs.
+
+Je vous invite à les découvrir au TGP jusqu'au  17 octobre : <a href="http://www.theatregerardphilipe.com/tgp-cdn/toa" target="_blank">rendez-vous sur le site du théâtre</a> pour réserver vos places.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/10/tous-au-theatre.jpg"><img class="aligncenter size-full wp-image-1703" title="Tous au theatre" src="http://www.viviane-voyages.com/wp-content/uploads/2010/10/tous-au-theatre.jpg" alt="" width="150" height="104" /></a>PS : j'ai aussi écrit cette note dans le cadre du challenge <a href="http://leiloona.canalblog.com/archives/2010/06/06/18145654.html">Tous au théâtre</a> proposé par <a href="http://leiloona.canalblog.com" target="_blank">Leiloona</a> qui vise à faire partager nos lectures et découvertes de pièces sur nos blogs.

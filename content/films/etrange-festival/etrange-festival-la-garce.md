@@ -1,0 +1,11 @@
+Category: Films
+Title: Etrange Festival - La Garce
+Date: 2012-09-10 22:03
+Author: viviane
+Tags: Etrange festival, 
+Slug: etrange-festival-la-garce
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2012/09/la_garce.jpg"><img class="alignleft size-thumbnail wp-image-2573" title="la_garce" src="http://www.viviane-voyages.com/wp-content/uploads/2012/09/la_garce-150x150.jpg" alt="" width="150" height="150" /></a> Début septembre, c'est la rentrée et c'est aussi le moment d'aller à l'Etrange Festival ! Evidemment, nous ne pouvons pas y passer nos journées alors nous nous contentons de quelques séances le week-end... Dimanche, nous voulions voir <em>La Garce</em> et <em>Dead Sushis</em>. La seconde séance étant complète (pas de sushis zombies pour aujourd’hui), nous nous contentons du premier film.
+
+Je découvre Bette Davis que je ne connaissais que de nom et ce magnifique film de 1949. A lire les critiques, j'avais peur de voir quelque chose de daté, surjoué... Rien de tout cela, j'ai été très agréablement surprise. C'est un film grinçant plein d'humour noir et de répliques bien senties. Bette Davis y est sublime en "méchante", personnage féminin hors norme. Si le film se cache derrière une morale qui condamne son héroïne, elle reste celle qui captive, qui fascine. Elle pourrait rappeler Scarlett en plus cruelle encore. Sa cruauté semble naitre de son enlisement dans une ville de province à laquelle elle voudrait échapper. La médiocrité de cette vie qu'on lui propose n'est jamais démentie par le film, à peine quelques "gentils" personnages la remettent en question. La force du film vient au contraire de l'énergie qui anime cette femme dans sa lutte pour s'enfuir, pour survivre. Un film en avance sur son temps, qui me semble tout à fait d’actualité encore aujourd'hui. Les traducteurs de l'époque, sans doute effrayés par l’ambiguïté du scénario, ont choisi un titre français très subjectif. De "Beyond the forrest", titre neutre  et qui semble se placer du point de vue de Bette Davis, on passe à "La Garce", couperet moral comme pour nous prévenir du danger !

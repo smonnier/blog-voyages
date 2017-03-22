@@ -1,0 +1,20 @@
+Category: Livres
+Title: Défi Voyage autour du monde, Oasis interdites
+Date: 2010-09-26 23:45
+Author: viviane
+Tags: Bilan de lectures, 
+Slug: defi-voyage-autour-du-monde-oasis-interdites
+Status: published
+
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1694" title="Defi Voyage autour du monde" src="http://www.viviane-voyages.com/wp-content/uploads/2010/09/defi-voyage.jpg" alt="Defi Voyage autour du monde" width="200" height="200" /></p>
+J'écris cette note dans le cadre du <a href="http://lecoindejuna.over-blog.com/article-defi-voyage-autour-du-monde-53305729.html" target="_blank">défi "Voyage autour du monde"</a> proposé par Juna. L'idée est que chacun se voit proposée par son "défieur" une liste de livre autour du voyage ou des pays du monde et doit en lire un et poster son compte rendu sur son blog. J'ai été défié par K-bum et ai choisi de lire <em>Oasis Interdites</em> d'Ella Maillart.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/09/oasis-interdites.jpg"><img class="alignleft size-thumbnail wp-image-1695" title="Oasis Interdites" src="http://www.viviane-voyages.com/wp-content/uploads/2010/09/oasis-interdites-150x150.jpg" alt="" width="150" height="150" /></a> Avec ce livre, je découvre d'abord une femme d'exception : Ella Maillart. Née en 1903 à Genève, elle a passé sa vie à voyager, toujours curieuse du monde. Libre et indépendante, elle ressemble à la femme que j'aurais aimé être si j'avais vécu à cette époque, mais rares ont été les aventurières !
+
+Dans <em>Oasis Interdites,</em> elle raconte la traversée de la Chine qu'elle entreprit avec Peter Flemming en 1935. Peter Flemming est un écrivain et aventurier anglais, c'est le frère de Ian Flemming, l'inventeur de James Bond. Et l'on dit que Ian Flemming s'inspira de son frère pour son personnage ! En résumé, Ella Maillart a traversé la Chine en compagnie de James Bond. Mais comme vous pouvez vous en douter, ce n'est du pas du tout l'archétype de la James Bond Girl (et d'ailleurs, d'après la description d'Ella, je ne trouve pas que Peter ressemble vraiment à James Bond).
+
+Tout au long du livre, j'ai apprécié son écriture légère et pleine d'humour, décrivant le monde qui se découvre à elle. Quel impensable voyage que de traverser la Chine d'est en ouest au milieu des troubles des années 30 ! L'ouest de la Chine est d'ailleurs secoué de révoltes et de guerres internes dont personne ne sait rien et que Pékin ne contrôle pas du tout. Pour atteindre le Turkestan qui est leur but, nos deux voyageurs doivent se dessiner un itinéraire au milieu des désert et hauts plateaux desséchés de l'Asie centrale qu'ils parcourent à dos de chameaux. A chaque étape, la suite du voyage est incertaine, il faut batailler pour obtenir les visas, trouver les bonnes personnes et les bonnes autorisations, et trouver des guides et des bêtes de somme. Et pourtant, les voilà à l'extrémité occidentale de la chine, à Kachgar, traversant l'Himalaya pour rejoindre le Cachemire...
+
+Ella Maillart s'est "baladé" entre la Mongolie intérieure et le Tibet à quelques milliers de kilomètres au sud de là où j'ai moi-même voyagé cet été, en Mongolie extérieure. J'ai pu comparer les coutumes, parfois semblables, mais souvent modifiées par les différences de lieux et d'époques (75 ans séparent nos deux voyages). Mais le mien, tout aventureux qu'il me sembla, n'était rien comparé à ce qu'elle accomplit. Je ne suis qu'une touriste suivant des pistes bien tracées quand elle fut une véritable aventurière qui partait sans savoir où, sans même savoir si elle reviendrait. Son livre m'a fait voyager avec elle, découvrir à nouveau l'Asie centrale qui m'a tant marquée cet été et je le suis reconnaissante de m'avoir permis de faire ce voyage bien assise dans mon canapé à Paris et pas sur un douloureux chameau !
+
+Je remercie Juna d'avoir proposé ce défi et je remercie aussi K-bum de m'avoir fait découvrir ce livre et son auteur improbable&nbsp;!

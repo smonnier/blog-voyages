@@ -1,0 +1,12 @@
+Category: Voyages
+Title: Jeudi spirituel
+Date: 2008-08-15 15:22
+Author: viviane
+Tags: Corée
+Slug: jeudi-spirituel
+Status: published
+
+Jeudi, je suis allée visiter le temple Bogheunsa, seul temple bouddhiste de Séoul (les autres ayant été chassés lors de la montée du Confucianisme). J’ai suivi le programme proposé « temple life » de deux heures, sorte de « Bouddhisme pour les nuls ». D’abord, on visite le temple avec un guide qui nous explique au passage les grands principes du bouddhisme et de la vie de Buddha.
+
+Puis, on rejoint le centre de méditation où l’on apprend à faire des fleurs de lotus en papier : la fleur de lotus est le symbole du bouddhisme, car elle naît magnifique de l’eau impure de l’étang tout comme le nirvana peut venir du monde des hommes. On s’assoie ensuite sur des petits coussins et l’on assiste à la cérémonie du thé (à ce moment là, on boit du thé avec des petits gâteaux, c’est très bien !). Puis arrive le moine qui nous fait un discours sur la méditation et la recherche de la vérité absolue bouddhiste. Il y a trois pêchés dans le bouddhisme : l’envie, la colère et l’ignorance, la méditation doit aider à s’en défaire (surtout les deux premiers, pour le troisième il y a d’autres méthodes !). Commence ensuite la vraie séance de méditation qui, heureusement, ne dure pas longtemps. J’atteins mon plus gros problème avec le bouddhisme, la position de méditation me fait très rapidement souffrir et je n’arrive plus à me concentrer sur mon vraie moi mais uniquement sur les crampes dans mes jambes. C’est vrai que je ne suis pas très souple mais quand même. Peut-être que quand mon esprit sera libéré de la colère et l’envie ce sera plus facile, mais comme pour cela il fait passer par la méditation, ça tourne en boucle !
+Ma visite terminée, je rejoins Sébastien et nous sortons avec deux de ses collègues : Michelle et Songran. Elles choisissent pour nous un restaurant japonais et il est beaucoup plus simple de commander les plats lorsqu’on est avec des coréens. On termine ensuite la soirée dans le classique Noraebang (karaoké coréen) : nous avons une petite pièce juste pour nous et on peut donc chanter sans complexes ! Malheureusement, il n’y a pas de chansons en français mais on massacre tout de même Nirvana et Guns and Roses pour se consoler…

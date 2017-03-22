@@ -1,0 +1,13 @@
+Category: Voyages
+Title: Retour en France
+Date: 2010-08-18 21:40
+Author: viviane
+Tags: Mongolie
+Slug: retour-en-france
+Status: published
+
+Nous voilà donc rentrés en France après ces deux semaines incroyables  ! Maintenant, la Mongolie signifiera quelque chose, nous aurons une  idée de cette vie nomade à des milliers de kilomètres. Dans un pays où  les hivers sont rigoureux et tuent les bêtes et où des gens vivent  encore au rythme du temps et des animaux. Mon voyage a été bercé par  l'écriture de Galsan Tchinag, auteur mongol dont j'ai lu trois œuvres  durant mon séjour.  Quand il parlait de lui enfant, j'imaginais d'abord  Tserentogtoch puis Monhbat, et quand il décrivait sa grand mère, je  voyais celle que nous avons rencontrée. A travers ses histoires, il  parle aussi de l'histoire de son pays, du communisme, du temps qui  avance. Et moi je voyais le pays actuellement, ce qui reste et ce qui  évolue.
+
+Je ne regrette pas d'être passée par une agence, DMD a  été très efficace et ça a été très rassurant d'avoir quelqu'un pour tout  organiser. Cependant, ma liberté m'a tout de même un peu manqué  (pourtant, notre programme n'était pas très strict !). Si on devait  repartir, je pense que l'on se débrouillerait seuls maintenant qu'on  sait un peu à quoi s'attendre : on trouverait un chauffeur et un guide  et on partirait à l'aventure ! Le désert de Gobi ne m'attire pas, trop  sec, trop chaud, trop extrême, et puis je n'aime pas les chameaux. Mais  le reculé Altaï et ses hautes montagnes me font rêver...  En attendant,  j'ai surtout appris que je pouvais facilement me passer de mon confort  habituel et supporter des conditions plus sommaires. Ça m'a donné envie  de partir en camping sauvage, de me perdre au milieu de nulle part. Pas  besoin d'aller jusqu'en Mongolie, je pense déjà la Scandinavie, au  Canada ou aux Etats-Unis : je rêve de grands espaces ! Je ne sais pas  quel sera mon prochain voyage, il ne ressemblera peut-être pas du tout à  ça. Il y a tellement de choses qui m'attirent et le monde est vaste...
+
+A  présent, nous allons faire imprimer les photos des familles et des gens  et les envoyer à DMD pour qu'ils puissent les transmettre. J'ai  l'adresse de la première famille (où plutôt, j'ai l'adresse de quelqu'un  à Oulan Bator qui reçoit leur courrier), je pourrai leur faire un colis  plus important. J'ai aussi l'adresse de Monhbat à son école à qui nous  écrirons une lettre en anglais pour qu'il puisse essayer de la  comprendre. Je lui laisserai aussi notre adresse et peut-être qu'il nous écrira...

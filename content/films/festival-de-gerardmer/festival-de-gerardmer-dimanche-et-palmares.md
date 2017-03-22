@@ -1,0 +1,17 @@
+Category: Films
+Title: Festival de Gerardmer - Dimanche et palmarès
+Date: 2016-01-31 23:00
+Author: viviane
+Tags: Festival de Gerardmer, 
+Slug: festival-de-gerardmer-dimanche-et-palmares
+Status: published
+
+Nous commençons notre dernière journée par la séance de courts métrages en compétition. Les cinq films présentés sont tous de qualité ce qui est bien agréable. Le tout premier, <em><strong>Juliet</strong></em>, est une vraie perle. Il nous décrit avec humour  un monde où l'on remplace petit à petit les êtres chers par des robots (partenaire amoureux ou sexuel, enfant, parent). Bien monté, c'est un mélange savant de flashs télévisés, de publicités et de situations particulières : la file d'hommes qui attend la sortie de la nouvelle Juliet comme si c'était un iphone, le passage rapide d'un homme qui demande le droit d'épouser sa poupée Romeo, ou une dame âgée qui la présente à ses copines. Cinglant et maîtrisé, pour moi, il mérite de gagner. L'autre que je retiendrai est <em><strong>L'Ours Noir</strong></em> : délire complet sur un groupe de touristes belges en vacances au Canada, librement inspiré des règles de sécurité d'un parc national québécois. Fou rire assuré.
+
+Puis voilà l'heure de notre dernière séance : le film danois en compétition <em><strong>What we become</strong></em>. Peu de choses à dire sur ce film. Pour ceux qui ont vu Fear the walking dead, c'est un peu la même chose mais en mieux  (parce que bon, Fear the walking dead, c'est pas génial quand même). Disons que dans le film danois, les personnages sont assez bien faits pour qu'on n'ait pas envie de les tuer nous même. Donc voilà, c'est un film de zombie plutôt bien fichu mais qui n'invente rien !
+
+Et voilà venu le moment de quitter Gerardmer, le festival est terminé après 18 séances !  Comme d'habitude, nous suivons le palmarès à distance depuis Twitter dans la voiture. Cette année, il est difficile de faire des pronostics : les films sont en général assez bons sans qu'aucun ne se détache vraiment. Par ailleurs, le président du jury est Claude Lelouche qui n'est pas vraiment un réalisateur de films de genre. Et plusieurs membres du jury ont avoué ne pas aimer les films fantastiques !! On se demande un peu ce qu'ils font là...
+
+Le prix du court métrage est attribué à <strong><em>Quenottes</em></strong>. Sans être mauvais, je le trouvais beaucoup moins bon que <strong><em>Juliet</em></strong>. Le prix du jury jeune va à <strong><em>Southbound</em></strong>, le prix SciFi à <strong><em>The Witch</em></strong>, le prix de la critique à <strong><em>Évolution </em></strong> et le prix du public à <strong><em>The Devil's Candy</em></strong> (qui gagne aussi à raison le prix de la meilleure musique) : que des films différents et rien qui ne m'étonne vraiment. Enfin le jury remet ses prix : prix spécial ex aequo à  <strong><em>Évolution</em></strong> et <strong><em>Jeruzalem</em></strong> et Grand Prix à <strong><em>Bone Tomahawk</em></strong>. Et voilà encore 2 nouveaux films primés. Comme je le prévoyais, pas de grands gagnants. Les films avaient du mal à se démarquer, ça dépendait beaucoup de la sensibilité de chacun. Je suis évidemment un peu déçue du Grand Prix : <strong><em>Bone Tomahawk</em></strong> n'étant vraiment pas  mon favori. Mais bon, il avait plu à d'autres et comme tout le monde (6 films sur 10) a reçu une récompense, finalement le palmarès reflète assez bien le ressenti du festival ! 
+
+À l'année prochaine ?

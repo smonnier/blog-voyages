@@ -1,0 +1,17 @@
+Category: Livres
+Title: Challenge 1000 ans de littérature française : Gargantua
+Date: 2010-12-04 13:30
+Author: viviane
+Tags: Challenge littérature française, 
+Slug: challenge-1000-ans-de-litterature-francaise-gargantua
+Status: published
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/12/1000litterature.jpg"><img class="aligncenter size-full wp-image-1770" title="1000 ans de litterature" src="http://www.viviane-voyages.com/wp-content/uploads/2010/12/1000litterature.jpg" alt="" width="199" height="187" /></a>
+
+Voici mon premier article dans le cadre du challenge proposé par <a href="http://mediatexte.blogspot.com/2010/12/challenge-1-000-ans-de-litterature.html" target="_blank">bookine : 1000 ans de littérature française</a>. L'idée est de découvrir ensemble, tous les trois mois,  une période de la littérature française en lisant un auteur qui a marqué son époque. Le premier round a lieu cet été, sur <a href="http://mediatexte.blogspot.com/2010/08/challenge-1000-ans-de-litterature.html" target="_blank">les chansons de gestes et chrétien de Troyes</a> et <a href="http://mediatexte.blogspot.com/2010/08/challenge-1000-ans-de-litterature_01.html" target="_blank">les premiers romans et les chroniqueurs</a>. Je suis arrivée un peu tard pour participer mais vous trouverez toutes les critiques sur <a href="http://mediatexte.blogspot.com/2010/10/challenge-1-000-ans-de-litterature.html" target="_blank">le blog de bookine</a>. Pour ce second round, nous avions le choix entre <a href="http://mediatexte.blogspot.com/2010/09/challenge-1-000-ans-de-litterature_26.html" target="_blank">Rableais</a> et <a href="http://mediatexte.blogspot.com/2010/09/challenge-1-000-ans-de-litterature.html" target="_blank">Villon ou Marot</a>. Je me suis donc attaquée au fameux <em>Gargantua </em>que je n'avais jamais eu l'occasion de lire.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/12/gargantua.jpg"><img class="alignleft size-thumbnail wp-image-1771" title="Gargantua" src="http://www.viviane-voyages.com/wp-content/uploads/2010/12/gargantua-150x150.jpg" alt="" width="150" height="150" /></a>
+
+Je dois l'avouer, ce ne fut pas une lecture facile ! J'avais une édition écrite "à l'ancienne" et donc pas toujours très compréhensible pour moi qui n'ai jamais fait d'ancien français. Heureusement, pour une page de texte il y avait environ une page de note ce qui aidait mais rendait tout de même la lecture fastidieuse. Cependant, une fois rentré dans le texte la lecture était agréable. Le propos est assez léger, plein d'humour et de descriptions extravagantes. Évidemment, on ne comprend plus toutes les références et elles ne sont sans doute plus aussi drôles mais on ressent tout de même l'intention, la légèreté et l'humour du texte. On se prend de sympathie pour l'auteur, l'imaginant, bout en train de son époque, écrire son livre en le remplissant de blagues et de bêtises à l'intention de ses proches et des autres. L'œuvre n'est pas non plus dénuée de cynisme et de critiques acerbes envers ses contemporains. Mais là aussi, pour tout comprendre, il faudrait une analyse plus poussée et une meilleure connaissance de l'époque.
+
+Enfin bref, je suis bien contente d'être allée jusqu'au bout, ce que je n'aurai certainement pas fait en dehors de ce challenge ! Rendez-vous sur la <a href="http://mediatexte.blogspot.com/2010/12/challenge-1-000-ans-de-litterature.html" target="_blank">page récapitulative de bookine</a> pour voir ce que les autres ont pensé de leurs lectures !

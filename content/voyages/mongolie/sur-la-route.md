@@ -1,0 +1,32 @@
+Category: Voyages
+Title: Sur la route
+Date: 2010-08-13 22:10
+Author: viviane
+Tags: Mongolie
+Slug: sur-la-route
+Status: published
+
+<h3 lang="x-western">Dimanche 1er août</h3>
+<p lang="x-western">Nous partons à 10h et nous avons une longue route à faire. D'autant plus que ce ne sera que de la piste ou "bumping road". Nous nous arrêtons d'abord dans un petit village, c'est là qu'est né notre chauffeur. Puis nous roulons un peu pour aller voir ses parents qui sont éleveurs nomades. Il peut ainsi voir un peu sa fille de deux ans qui y est en ce moment ainsi que sa sœur et son neveu encore tout bébé. Les parents nous accueillent dans leur yourte au centre de laquelle le poêle chauffe une grande casserole de lait.   Ils nous servent des petits fromages faits avec du lait de yak ainsi que du thé chaud. Plus tard, ils nous font gouter un bol de lait de yak chaud et crémeux. Les yaks sont en fait de grosses vaches poilues. Il y en a beaucoup par ici car ils sont surtout élevés dans les montagnes. Nous avons déjà croisé plusieurs troupeaux.</p>
+<p lang="x-western"><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080878.jpg"><img class="aligncenter size-medium wp-image-1508" title="Les parents du chauffeur" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080878-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p lang="x-western"><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080877.jpg"><img class="aligncenter size-medium wp-image-1509" title="Le chauffeur et sa fille" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080877-225x300.jpg" alt="" width="225" height="300" /></a></p>
+
+<div lang="x-western">
+
+Nous repartons et cette fois la route sera longue. Nous devons d'abord traverser les montagnes. Malgré les bosses, c'est très agréable. Les paysages sont magnifiques. Nous roulons sur le flanc des collines, le long des forêts. Nous traversons parfois même de petits bois. La voiture est entourée par les herbes hautes et fleuries. Nous nous arrêtons dans un bois pour cueillir de grosses fleurs rouges que Erica et le chauffeur veulent faire sécher pour faire en tisane. Il parait que c'est bon pour la digestion (mais méfions nous). Ils en remplissent deux bouteilles. Erica nous dit que sa fille a des problèmes de digestion et que ça l'aidera, c'est pour ça qu'il lui en faut beaucoup.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080911.jpg"><img class="aligncenter size-medium wp-image-1510" title="Erica et nous dans la forêt" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080911-225x300.jpg" alt="" width="225" height="300" /></a>
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080911.jpg"></a><a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080913.jpg"><img class="aligncenter size-medium wp-image-1511" title="Déjeuner sur l'herbe" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080913-300x225.jpg" alt="" width="300" height="225" /></a>
+
+C'est dans un charmant endroit comme ça que nous nous arrêtons pour déjeuner. Mais bientôt nous devons repartir, le chauffeur nous dit qu'il reste 150 km à parcourir.  Après un temps, nous quittons les montagnes et traversons une zone anciennement volcanique. La plaine est jonchée de pierres noires qui lui donnent un air un peu effrayant. Et puis nous croisons de belles rivières  au fond de larges canyons. S'il n'y avait pas de programme à suivre, je voudrais m'arrêter ici et camper dans ce paysage étrange, me baignant dans l'eau froide au milieu des cailloux noirs. Nous commençons à être fatigués et il reste encore une centaine de kilomètres. Bientôt, nous retrouvons le paysage auquel nous avons été habitué : nous avons quitté la végétation luxuriante des montagnes et retrouvons la terre sèche et poussiéreuse, l'herbe éparse qui s'étend à l'infini sur les collines.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080922.jpg"><img class="aligncenter size-medium wp-image-1514" title="La steppe" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1080922-300x225.jpg" alt="" width="300" height="225" /></a>
+
+Le soleil se couche et nous ne sommes toujours pas arrivés. Nous avons passé une ville qui se trouve "à côté" de notre lieu d'arrivée mais voilà un moment que nous roulons dans la steppe, dépassant les campements sans nous arrêter. Est-ce par ce que la nuit est proche que d'un seul coup un petit renard court juste à côté de la voiture avant de se jeter prestement dans un trou ? Sur notre chemin, nous croisons aussi de nombreux aigles. Immobiles, on pourrait les confondre avec des pierres ou des morceaux de bois. Seules leurs têtes bougent, suivant notre passage de leurs yeux perçants. Parfois l'un d'eux s'envole silencieusement. Parfois aussi, ce ne sont pas des aigles mais des chouettes avec leur tête ronde qui tourne à 180 degrés et leurs deux yeux globuleux.
+
+Enfin nous arrivons. Les yourtes sont nichées dans le creux de la colline, au milieu d'un paysage accidenté. La famille nous accueille chaleureusement. C'est un vieux couple qui vit ici entourés d'enfants qui sont soit leurs neveux soit leurs petits-enfants. La femme est toute menue, elle porte un bel habit traditionnel bleu. De loin, on dirait une petite fille. Dans leur yourte, ils nous servent du thé et de petits gâteaux bien appréciables. Ils ont perdu de nombreux animaux cet hiver mais n'ont pas l'air dans le besoin. D'ailleurs, nous apprenons qu'ils ont déjà voyagé et sont allés en France où ils ont été accueillis chez des amis. Ils ont des photos d'eux sous la tour Eiffel et à divers endroits comme à la pointe du raz. Sur la carte de France, nous leur montrons où nous habitons et d'où est originaire Sébastien. Puis nous rejoignons Erica qui cuisine dans notre yourte. Le poêle apporte une douce chaleur et bientôt le dîner est prêt. Nous ne veillons pas très tard après cette longue route et sommes très heureux de nous coucher, même sur des lits un peu durs.
+
+<a href="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1090110.jpg"><img class="aligncenter size-medium wp-image-1516" title="La famille au complet" src="http://www.viviane-voyages.com/wp-content/uploads/2010/08/P1090110-300x225.jpg" alt="" width="300" height="225" /></a>
+
+</div>
