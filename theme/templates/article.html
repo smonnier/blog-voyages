@@ -31,4 +31,22 @@
             {% endif %}
         </ul>
     </nav>
+
+    {% if DISQUS_SITENAME %}
+        <div id="disqus_thread"></div>
+        <script>
+        var disqus_config = function () {
+        this.page.url = "{{ DISQUS_SITENAME }}{{ SITEURL }}/{{ article.url }}";
+        this.page.identifier = "{{ article.slug }}";
+        };
+
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://{{ DISQUS_SHORTNAME }}.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+        </script>
+        <noscript>Enable JavaScript to view the comments. Or don't, it's ok.</noscript>
+    {% endif %}
 {% endblock content %}

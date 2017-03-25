@@ -141,5 +141,10 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/{{ BOOTSTRAP }}/js/bootstrap.min.js"></script>
 
+{% if DISQUS_SITENAME %}
+    <!-- DISQUS -->
+    <script id="dsq-count-scr" src="//{{ DISQUS_SHORTNAME }}.disqus.com/count.js" async></script>
+{% endif %}
+
 </body>
 </html>
