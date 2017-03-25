@@ -11,7 +11,7 @@
 
                 {{ article.content }}
 
-                {% if DISQUS_SITENAME %}<p><a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" >{{ article.title }}</a></p>{% endif %}
+                {% if DISQUS_SITENAME %}<p><a data-disqus-identifier="{{ article.slug }}" href="{{ SITEURL }}/{{ article.url }}#disqus_thread" >Commentaires</a></p>{% endif %}
             </div>
         {% endfor %}
 {% endmacro %}
