@@ -7,9 +7,11 @@
                     <span class= "artcile-category" >Catégorie : <a href="{{ article.category.url }}" >{{ article.category }}</a></span><br />
                     {% if article.tags %}<span class = "article-tags" >Tags : {% for tag in article.tags %}<a href="{{ tag.url }}" >{{ tag }}</a> {% endfor %}</span>{% endif %}
                 </p>
-                <h1><a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" >{{ article.title }}</a></h1>
+                <h1><a href="{{ SITEURL }}/{{ article.url }}" >{{ article.title }}</a></h1>
 
                 {{ article.content }}
+
+                {% if DISQUS_SITENAME %}<p><a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" >{{ article.title }}</a></p>{% endif %}
             </div>
         {% endfor %}
 {% endmacro %}
