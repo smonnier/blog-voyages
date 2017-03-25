@@ -4,15 +4,15 @@
     <h1>Archives.</h1>
 {% endblock %}
 {% block content %}
-{% set year = "" %}
+{% set v = {"year":""} %}
 <ul>
 {% for article in articles %}
-    {% set ayear = article.date |strftime("%Y") %}
-    {% if ayear != year %}
+    {% set year = article.date |strftime("%Y") %}
+    {% if not year == v.year %}
 </ul>
-<h2>{{ ayear }}</h2>
+<h2>{{ year }}</h2>
 <ul>
-        {% set year = ayear %}
+        {% if v.update({"year":year}) %}{% endif %}
     {% endif %}
     <li>{{ article.category }}, {{ article.locale_date }} <a href="{{ SITEURL }}/{{ article.url }}" >{{ article.title }}</a></li>
 {% endfor %}
