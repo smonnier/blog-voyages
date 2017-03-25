@@ -16,7 +16,10 @@ RELATIVE_URLS = False
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-DELETE_OUTPUT_DIRECTORY = False
+STATIC_PATHS.remove("wp-content")
+IGNORE_FILES = []
+
+DELETE_OUTPUT_DIRECTORY = False # Because we don't want to erase the wp-images
 
 # Following items are often useful when publishing
 
