@@ -22,7 +22,7 @@ IGNORE_FILES = []
 DELETE_OUTPUT_DIRECTORY = False # Because we don't want to erase the wp-images
 
 DISQUS_SITENAME = SITEDOMAIN
-DISQUS_SHORTNAME = "viviane-voyages"
+DISQUS_SHORTNAME = "vivianevoyages"
 
 # Following items are often useful when publishing
 
