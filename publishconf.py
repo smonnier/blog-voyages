@@ -21,8 +21,8 @@ IGNORE_FILES = []
 
 DELETE_OUTPUT_DIRECTORY = False # Because we don't want to erase the wp-images
 
-DISQUS_SITENAME = "http://typist-doreen-46136.netlify.com"
-DISQUS_SHORTNAME = "viviane-voyages-test"
+DISQUS_SITENAME = SITEDOMAIN
+DISQUS_SHORTNAME = "viviane-voyages"
 
 # Following items are often useful when publishing
 

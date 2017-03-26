@@ -6,6 +6,7 @@ AUTHOR = u'Viviane'
 SITENAME = u'Viviane Voyage...'
 SITESUBTITLE = u'Écrire le monde'
 SITEURL = ''
+SITEDOMAIN = 'http://www.viviane-voyages.com'
 LOCALE = "fr_FR.utf8"
 
 PATH = 'content'

@@ -7,6 +7,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
 
+        <link rel="canonical" href="{{ SITEDOMAIN }}/{{ output_file | replace('index.html','') }}" />
+
         <!-- Bootstrap -->
         <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/{{ BOOTSTRAP }}/css/bootstrap.min.css" rel="stylesheet">
 
