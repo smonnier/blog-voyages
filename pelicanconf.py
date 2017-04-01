@@ -56,6 +56,7 @@ EXCLUDE_FROM_CATEGORY = {
 }
 
 DISQUS_SITENAME = None # Disable DISCUS on local
+GTM = None # Google Tag manager
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

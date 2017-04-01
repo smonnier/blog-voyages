@@ -24,6 +24,8 @@ DELETE_OUTPUT_DIRECTORY = False # Because we don't want to erase the wp-images
 DISQUS_SITENAME = SITEDOMAIN
 DISQUS_SHORTNAME = "vivianevoyages"
 
+GTM = "GTM-T5BGFK2"
+
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
