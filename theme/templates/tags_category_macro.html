@@ -1,13 +1,7 @@
 {% macro tags_category(category) %}
     <ul class="nav nav-pills" >
-    {% for tag,articles in tags|sort %}
-        {% if not tag.slug in EXCLUDE_FROM_CATEGORY[category.slug] %}
-            {% for a in articles if a.category.name == category %}
-                {% if loop.last %}
-                    <li><a class="tag"  href="{{ SITEURL }}/{{ tag.url }}" >{{ tag }}{% if tag.is_voyage %} <small>({{ tag.year_str }})</small>{% endif %}</a></li>
-                {% endif %}
-            {% endfor %}
-        {% endif %}
+    {% for tag in category.tags|sort %}
+        <li><a class="tag"  href="{{ SITEURL }}/{{ tag.url }}" >{{ tag }}{% if tag.is_voyage %} <small>({{ tag.year_str }})</small>{% endif %}</a></li>
     {% endfor %}
     </ul>
 {% endmacro %}
