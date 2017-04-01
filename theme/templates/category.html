@@ -1,5 +1,6 @@
 {% extends "index.html" %}
 {% block title %}{{ category }} - {{ SITENAME }}{% endblock %}
+{% block description %}{% for tag in category.tags %}{{ tag }}, {% endfor %}{% endblock %}
 {% block sitetitle %}
     <h1>{{ category }}.</h1>
 {% endblock sitetitle %}

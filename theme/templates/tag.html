@@ -1,5 +1,7 @@
 {% extends "index.html" %}
+{% set first = articles | first %}
 {% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
+{% block description %}{{ first.summary | striptags }}{% endblock %}
 {% block bg_image %}{{ SITEURL }}/{% if tag.background_image %}{{ BACKGROUND_URL }}{{ tag.background_image }}{% else %}{{ BACKGROUND_DEFAULT }}{% endif %}{% endblock %}
 {% block sitetitle %}
     <h1>{{ tag }}</h1>
