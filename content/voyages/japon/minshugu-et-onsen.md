@@ -6,8 +6,6 @@ Tags: Japon
 Slug: minshugu-et-onsen
 Status: published
 
-<div>
-
 Nous quittons Tokyo le lundi matin. Nous nous rendons d’abord avec tous nos bagages à la station de Shinagawa où nous trouvons, relativement facilement, le loueur de voitures chez qui nous avons réservé. Tout se passe très vite et nous voilà, lâchés dans les rues de Tokyo. Le GPS est en Japonais mais une petite notice explique comment régler les instructions en anglais et comment définir la destination à l’aide des numéros de téléphone. C’est ainsi que nous arrivons à sortir de la ville, en suivant aveuglément le GPS à travers les voies rapides et les grattes ciels. Nous sommes sur la bonne autoroute, roulant vers l’ouest, et petit à petit, les grands immeubles laissent la place à la campagne.
 
 Nous prenons la direction du sud vers la péninsule d’Izu Hanto. L’océan apparaît soudain devant nous et la voie rapide se transforme en petite route longeant le littoral. Nous voici à Atami, première ville de la péninsule. On y retrouve l’ambiance d’une station balnéaire avec sa jolie plage et son petit port. Le soleil brille et les familles se prélassent sur le sable. Très accessible depuis Tokyo, elle doit être prise d’assaut le week-end. Nous mangeons dans un grand snack bar avec vue sur la mer avant de repartir.
@@ -30,4 +28,3 @@ Nous quittons à présent à la péninsule ainsi que le joli paysage. Aux abords
 
 Le soir, nous mangeons dans un restaurant italien au bord du lac. La ville me fait penser à Gerardmer : même paysage montagneux avec un lac, même ambiance de petite station touristique familiale. Nous sommes les seuls touristes étrangers dans le restaurant qui n’a d’ailleurs même pas de carte en anglais !
 
-</div>
