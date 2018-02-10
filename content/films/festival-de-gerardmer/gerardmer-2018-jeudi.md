@@ -8,7 +8,7 @@ Status: published
 
 Nous arrivons tard le mercredi soir après 5h de route  sous une pluie battante et continue. Le lendemain matin, la pluie s'est transformée en neige et tombe en léger en flocons,  recouvrant pare-brises et trottoirs. Le soleil perce à travers les nuages et éclaire la forêt vosgienne sous sa poudre blanche.
 
-Nous entamons la 25ème édition du festival de Gerardmer, 14ème pour nous, comme très souvent à l'Espace Lac avec un film en compétition. Nous assistons à *The Lodgers*, film irlandais se déroulant vers 1920, qui malgré des belles images se révèle assez décevant car il sort bien peu des clichés…
+Nous entamons la 25ème édition du festival de Gerardmer, 15ème pour nous, comme très souvent à l'Espace Lac avec un film en compétition. Nous assistons à *The Lodgers*, film irlandais se déroulant vers 1920, qui malgré des belles images se révèle assez décevant car il sort bien peu des clichés…
 
 La séance de 14h30 à la MCL est plus intéressante. Nous profitons de la rétrospective Alex de la Iglesia pour découvrir *Mes Chers Voisins*.  Ce réalisateur m'avait marquée il y a quelques années avec l'excellent *Un Crime Farpait* et je ne suis pas déçue. Dans *Mes Chers Voisins*, une copropriété se déchire et s'assassine autour d'un pactole de loto sportif : c'est un beau concentré d'humour noir et de situations absurdes, belle découverte.
 
