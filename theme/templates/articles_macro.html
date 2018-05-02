@@ -5,7 +5,7 @@
                 <p class="article-meta" >
                     <span class="article-time" >{{ article.locale_date }}</span><br />
                     <span class= "artcile-category" >Catégorie : <a href="{{ article.category.url }}" >{{ article.category }}</a></span><br />
-                    {% if article.tags %}<span class = "article-tags" >Tags : {% for tag in article.tags %}<a href="{{ tag.url }}" >{{ tag }}</a> {% endfor %}</span>{% endif %}
+                    {% if article.tags %}<span class = "article-tags" >Tags : {% for tag in article.tags %}<a href="/{{ tag.url }}" >{{ tag }}</a> {% endfor %}</span>{% endif %}
                 </p>
                 <h1><a href="{{ SITEURL }}/{{ article.url }}" >{{ article.title }}</a></h1>
 
