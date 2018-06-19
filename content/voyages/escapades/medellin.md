@@ -2,7 +2,7 @@ Category: Voyages
 Title: Medellín
 Date: 2016-06-27 20:09
 Author: viviane
-Tags: Escapades
+Tags: Escapades, Colombie
 Slug: medellin
 Status: published
 
