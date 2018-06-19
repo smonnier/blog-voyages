@@ -2,7 +2,7 @@ Category: Voyages
 Title: Baranquilla et Carthagène
 Date: 2018-06-19 10:00
 Author: viviane
-Tags: Escapades, Comlombie
+Tags: Escapades, Colombie
 Slug: baranquilla
 Status: published
 
