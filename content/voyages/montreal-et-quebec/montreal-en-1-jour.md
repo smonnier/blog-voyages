@@ -2,7 +2,7 @@ Category: Voyages
 Title: Montréal en 1 jour
 Date: 2011-10-25 15:44
 Author: viviane
-Tags: Montreal et Québec
+Tags: Montreal et Québec, Le Québec, Montréal 
 Slug: montreal-en-1-jour
 Status: published
 

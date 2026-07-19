@@ -22,11 +22,12 @@ PLUGINS = [
         "neighbors",
         "random_article",
         "background",
-        "voyages_tags"
+        "voyages_tags",
+        "category_tags"
     ]
 
 RANDOM = "random.html"
-STATIC_PATHS = ["images","fenetre.pdf","_redirects"]
+STATIC_PATHS = ["images","fenetre.pdf","lettre_darmanin.pdf","_redirects"]
 IGNORE_FILES = ['wp-content']
 
 DEFAULT_LANG = u'fr'
@@ -51,11 +52,13 @@ DEFAULT_PAGINATION = 3
 EXCLUDE_FROM_CATEGORY = {
     "voyages": {"peintures", "photo-du-mois", "photos"},
     "divers" : set(),
-    "films": {"photos"},
+    "films": {"photos", "un-an-en-irlande"},
     "livres" : {"un-an-en-irlande"}
 }
 
+
 DISQUS_SITENAME = None # Disable DISCUS on local
+GTM = None # Google Tag manager
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

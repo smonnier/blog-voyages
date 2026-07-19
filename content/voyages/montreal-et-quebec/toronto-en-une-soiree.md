@@ -2,7 +2,7 @@ Category: Voyages
 Title: Toronto en une soirée
 Date: 2011-11-12 18:28
 Author: viviane
-Tags: Montreal et Québec
+Tags: Montreal et Québec, Le Québec 
 Slug: toronto-en-une-soiree
 Status: published
 

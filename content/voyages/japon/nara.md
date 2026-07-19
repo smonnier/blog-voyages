@@ -6,7 +6,6 @@ Tags: Japon
 Slug: nara
 Status: published
 
-<div>
 
 Nous quittons Kyoto le mardi pour nous rendre dans la très proche Nara. Le train de banlieue nous dépose en plein centre et nous trouvons grâce à l’office du tourisme un hôtel tout près plutôt chic pour le prix que nous payons. Ce n’est que le tout début de l’après midi et nous ressortons donc pour visiter la ville. Nous nous dirigeons vers le parc dans lequel se situent tous les temples. A son orée, au bord d’un petit étang, nous nous asseyons pour pique-niquer. Dans l’eau, nagent des tortues placides. Sur le banc voisin, un vieux monsieur nourrit les nombreux pigeons. Et au milieu des oiseaux, l’air légèrement perdu, immobile, un cerf nous regarde. Nous sommes surpris et amusés, je savais que ces animaux circulaient librement dans le parc, mais je ne pensais pas en voir si vite, si près de la ville, si proche des hommes. Plus loin, nous remarquons maintenant des biches et des faons : ils marchent à travers les passants et les voitures, indifférents.
 
@@ -20,4 +19,3 @@ Nous ne sommes même pas capable de faire la différence entre le shintoïsme et
 
 Enfin, pour notre dernière soirée, nous profitons des éclairages existants. Nous allons voir ceux que nous avions ratés la veille : en particulier un petit lac avec une pagode au centre, le tout brillant de bougies jaunes et, sur l’eau, des couples dans des barques qui filent dans une lumière frémissante. Avant ça, nous avons mangé au restaurant en ville. Comme d’habitude, j’ai choisi le lieu au hasard. C’était un peu cher mais j’ai réussi à trouver ce que je voulais goûter : la spécialité de Nara, le poulet cuit dans du lait. C’est un met délicat et délicieux. Le midi, dans un petit café dans le parc, j’avais pu prendre encore complètement par hasard l’autre spécialité de la ville : le bol de riz au thé vert, assez bizarre mais plutôt bon à mon goût. Comme quoi la chance est parfois de mon côté. En rentrant vers l’hôtel, nous croisons dans la rue deux filles qui étaient avec nous à la Couch surfing house, la française et l’autrichienne. Elles ont fait la visite de la ville en une journée depuis Kyoto, ça se fait très bien mais il faut être un peu moins paresseux que nous et se lever le matin.
 
-</div>

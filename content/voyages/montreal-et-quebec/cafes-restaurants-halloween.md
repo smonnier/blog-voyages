@@ -2,7 +2,7 @@ Category: Voyages
 Title: Cafés, restaurants, Halloween 
 Date: 2011-11-04 04:44
 Author: viviane
-Tags: Montreal et Québec
+Tags: Montreal et Québec, Le Québec, Montréal 
 Slug: cafes-restaurants-halloween
 Status: published
 

@@ -2,7 +2,7 @@ Category: Voyages
 Title: Québec en un jour
 Date: 2011-11-05 04:28
 Author: viviane
-Tags: Montreal et Québec
+Tags: Montreal et Québec, Le Québec 
 Slug: quebec-en-un-jour
 Status: published
 

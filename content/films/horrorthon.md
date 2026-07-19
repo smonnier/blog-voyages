@@ -2,7 +2,7 @@ Category: Films
 Title: Horrorthon
 Date: 2006-11-02 23:15
 Author: viviane
-Tags: 
+Tags: Un an en Irlande, Mes films vus
 Slug: horrorthon
 Status: published
 

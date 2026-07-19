@@ -2,7 +2,7 @@ Category: Voyages
 Title: Dernier Week-end à Montréal : Mont Royal
 Date: 2011-11-21 21:49
 Author: viviane
-Tags: Montreal et Québec
+Tags: Montreal et Québec, Le Québec, Montréal 
 Slug: dernier-week-end-a-montreal-mont-royal
 Status: published
 

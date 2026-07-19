@@ -2,7 +2,7 @@ Category: Voyages
 Title: Brunch et chutes de Montmorency
 Date: 2011-11-11 00:04
 Author: viviane
-Tags: Montreal et Québec
+Tags: Montreal et Québec, Le Québec 
 Slug: brunch-et-chutes-de-montmorency
 Status: published
 
